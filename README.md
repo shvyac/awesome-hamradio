@@ -10,6 +10,12 @@ https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral S
 
 https://github.com/kgoba/ft8_lib FT8 library
 
+https://github.com/pavel-demin/stemlab-sdr-notes/tree/master/projects/sdr_transceiver_ft8
+
+https://github.com/pavel-demin/ft8d
+
+https://github.com/ckoval7/automate_ft8
+
 # FT4
 
 # DSP

@@ -1,6 +1,12 @@
 # Awesome-Hamradio
 
+# SDR
+
 https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Application
+
+# FT8
+
+# FT4
 
 
 

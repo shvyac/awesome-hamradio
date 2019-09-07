@@ -8,7 +8,9 @@ https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Appli
 
 # FT4
 
+# DSP
 
+# HAMLOG
 
 ---
 

@@ -8,6 +8,8 @@ https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral S
 
 # FT8
 
+https://github.com/kgoba/ft8_lib FT8 library
+
 # FT4
 
 # DSP

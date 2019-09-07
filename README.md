@@ -42,6 +42,25 @@ https://github.com/thestk/rtaudio/ common API for realtime audio input/output
 
 https://github.com/Hamlib/Hamlib/
 
+# ACARS
+
+Automatic Communications Addressing and Reporting Sysytem
+
+https://www.avicom.co.jp/services/data_link/ ACARS（航空無線データ通信）の使用例
+
+
+https://www.avicom.co.jp/services/data_link/data_02.html ACARSカバーエリア
+
+http://www.jal.com/ja/jiten/dict/p192.html#09-05
+
+http://www.jal.com/ja/jiten/dict/g_page/g196.html
+
+http://73net.sakura.ne.jp/radio/acars/acars.html
+
+http://sino-teizan.style.coocan.jp/KGAcars.html
+
+https://sourceforge.net/projects/acarsdec/
+
 ---
 
 # Links

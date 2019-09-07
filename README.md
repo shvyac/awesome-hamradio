@@ -2,7 +2,7 @@
 
 # SDR
 
-https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Application
+https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Application https://cubicsdr.com/
 
 # FT8
 

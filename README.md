@@ -14,13 +14,21 @@ https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral S
 
 https://github.com/jgaeddert/liquid-dsp digital signal processing library for software-defined radios http://liquidsdr.org
 
+https://github.com/FFTW/fftw3 FFTW library for computing Fourier transforms
+
 # Realtime Audio
 
 https://github.com/thestk/rtaudio/ common API for realtime audio input/output
 
 # HAMLOG
 
+# Ham Radio Control Libraries
+
+https://github.com/Hamlib/Hamlib/
+
 ---
+
+# Links
 
 https://github.com/sindresorhus/awesome
 

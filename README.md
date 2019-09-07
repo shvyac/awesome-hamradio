@@ -46,8 +46,15 @@ https://github.com/Hamlib/Hamlib/
 
 Automatic Communications Addressing and Reporting Sysytem
 
-https://www.avicom.co.jp/services/data_link/ ACARS（航空無線データ通信）の使用例
+https://github.com/TLeconte/acarsdec
 
+https://github.com/jontio/JAERO
+
+https://github.com/brmlab/acarsdec
+
+https://github.com/comcat/acarsx
+
+https://www.avicom.co.jp/services/data_link/ ACARS（航空無線データ通信）の使用例
 
 https://www.avicom.co.jp/services/data_link/data_02.html ACARSカバーエリア
 

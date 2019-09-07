@@ -24,6 +24,14 @@ https://github.com/jgaeddert/liquid-dsp digital signal processing library for so
 
 https://github.com/FFTW/fftw3 FFTW library for computing Fourier transforms
 
+https://github.com/AllenDowney/ThinkDSP
+
+https://github.com/vinniefalco/DSPFilters
+
+https://github.com/jgaeddert/liquid-dsp
+
+https://github.com/micknoise/Maximilian
+
 # Realtime Audio
 
 https://github.com/thestk/rtaudio/ common API for realtime audio input/output

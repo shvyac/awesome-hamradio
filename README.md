@@ -1,4 +1,4 @@
-# awesome-hamradio
+# Awesome-Hamradio
 
 https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Application
 

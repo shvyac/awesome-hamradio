@@ -6,7 +6,7 @@ https://awesome-indexed.mathew-davies.co.uk/   Awesome Indexed - Search the Awes
 
 ---
 
-# Awesome-Hamradio
+# Awesome-Hamradio   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # SDR
 

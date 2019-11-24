@@ -1,5 +1,11 @@
 https://github.com/sindresorhus/awesome Top of Awesome
 
+https://awesomelists.top/   Awesome Search - Quick search for Awesome lists.
+
+https://awesome-indexed.mathew-davies.co.uk/   Awesome Indexed - Search the Awesome dataset.
+
+---
+
 # Awesome-Hamradio
 
 # SDR

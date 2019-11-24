@@ -49,6 +49,8 @@ https://github.com/thestk/rtaudio/ common API for realtime audio input/output
 
 # HAMLOG
 
+https://github.com/jr8ppg/zLog  Improve zLog for Windows
+
 # Ham Radio Control Libraries
 
 https://github.com/Hamlib/Hamlib/

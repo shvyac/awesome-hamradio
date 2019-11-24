@@ -1,3 +1,5 @@
+https://github.com/sindresorhus/awesome
+
 # Awesome-Hamradio
 
 # SDR

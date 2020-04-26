@@ -24,9 +24,9 @@ https://github.com/kgoba/ft8_lib FT8 library
 
 https://github.com/pavel-demin/stemlab-sdr-notes/tree/master/projects/sdr_transceiver_ft8
 
-https://github.com/pavel-demin/ft8d
+https://github.com/pavel-demin/ft8d  Minimal set of files required to build the FT8 decoder by Joe Taylor, K1JT and Steve Franke, K9AN.
 
-https://github.com/ckoval7/automate_ft8
+https://github.com/ckoval7/automate_ft8   Run gnuradio based automated FT8 QSOs
 
 # FT4
 

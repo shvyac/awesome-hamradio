@@ -18,7 +18,7 @@ https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral S
 
 # FT8
 
-https://github.com/rtmrtmrtmrtm/weakmon
+https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.
 
 https://github.com/kgoba/ft8_lib FT8 library
 
@@ -32,6 +32,8 @@ https://github.com/ckoval7/automate_ft8
 
 
 # DSP
+
+https://github.com/mborgerding/kissfft   a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid
 
 https://github.com/jgaeddert/liquid-dsp digital signal processing library for software-defined radios http://liquidsdr.org
 

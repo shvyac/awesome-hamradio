@@ -87,6 +87,11 @@ https://sourceforge.net/projects/acarsdec/
 
 https://sourceforge.net/projects/flightairmap/
 
+# awesome user on github
+
+https://github.com/StudioZaigo
+
+https://github.com/ji1udd
 
 ---
 

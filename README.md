@@ -18,6 +18,8 @@ https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral S
 
 https://github.com/MichaelRColton/PSDR PortableSDR - A Stand Alone HF Software Defined Transciever.
 
+https://github.com/harayz/sdr-otg Software Defined Radio On The Go
+
 # FT8
 
 https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.

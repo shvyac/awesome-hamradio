@@ -16,6 +16,8 @@ https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Appli
 
 https://github.com/pothosware/SoapySDR Soapy SDR - vendor and platform neutral SDR support library.
 
+https://github.com/MichaelRColton/PSDR PortableSDR - A Stand Alone HF Software Defined Transciever.
+
 # FT8
 
 https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.

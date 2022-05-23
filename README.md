@@ -26,6 +26,8 @@ https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf
 
 https://github.com/Guenael/rtlsdr-ft8d    FT8 decoder of RTL devices
 
+https://github.com/M0LTE/ft8spotter   .NET Core console app to provide coloured and filtered displays of FT8 decoded messages, by monitoring udp://localhost:2237
+
 https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.
 
 https://github.com/rtmrtmrtmrtm/basicft8    An annotated simple FT8 demodulator.

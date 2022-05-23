@@ -26,6 +26,10 @@ https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf
 
 https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.
 
+https://github.com/rtmrtmrtmrtm/basicft8    An annotated simple FT8 demodulator.
+
+https://github.com/rtmrtmrtmrtm/ft8mon    FT8 receiver in C++
+
 https://github.com/kgoba/ft8_lib FT8 library
 
 https://github.com/pavel-demin/stemlab-sdr-notes/tree/master/projects/sdr_transceiver_ft8

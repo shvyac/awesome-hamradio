@@ -116,6 +116,14 @@ https://github.com/StudioZaigo
 
 https://github.com/ji1udd
 
+# YAESU FT991A
+
+https://github.com/j0ju/ft991a-interoperability-tools   FT991 unofficial docs and tools for interoperability
+
+https://github.com/iu3kxa/interference-monitor-for-FT991A   Prevent HF transmissions to interfere to a (really) close air traffic control center.
+
+https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils    backup & restore utility for FT-991A's extended menu
+
 ---
 
 # Links

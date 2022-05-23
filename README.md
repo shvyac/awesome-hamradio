@@ -22,6 +22,8 @@ https://github.com/harayz/sdr-otg Software Defined Radio On The Go
 
 # FT8
 
+https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf
+
 https://github.com/rtmrtmrtmrtm/weakmon   Sound-card software for FT8, JT65A, and WSPR.
 
 https://github.com/kgoba/ft8_lib FT8 library
@@ -34,6 +36,7 @@ https://github.com/ckoval7/automate_ft8   Run gnuradio based automated FT8 QSOs
 
 # FT4
 
+https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf
 
 # DSP
 

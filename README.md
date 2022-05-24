@@ -10,6 +10,8 @@ https://awesome-indexed.mathew-davies.co.uk/   Awesome Indexed - Search the Awes
 
 # SDR
 
+https://github.com/f4exb/sdrangel   SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
+
 https://github.com/gnuradio/gnuradio  GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
 
 https://github.com/cjcliffe/CubicSDR Cross-Platform Software-Defined Radio Application https://cubicsdr.com/

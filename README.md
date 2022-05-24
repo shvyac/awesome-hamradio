@@ -72,9 +72,11 @@ https://github.com/thestk/rtaudio/ common API for realtime audio input/output
 
 https://github.com/swharden/Csharp-Data-Visualization Code examples and notes for displaying data with C#
 
-# HAMLOG
+# HAM LOG, QSOLOG, Contest Log
 
 https://github.com/jr8ppg/zLog  Improve zLog for Windows
+
+http://www.swisslogforwindows.com/    Swisslog Ham Radio Logging Software
 
 # Ham Radio Control Libraries
 

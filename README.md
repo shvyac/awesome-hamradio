@@ -108,7 +108,7 @@ https://sourceforge.net/projects/acarsdec/
 
 https://sourceforge.net/projects/flightairmap/
 
-# awesome user on github
+# Awesome Users on Github
 
 https://github.com/jr8ppg
 

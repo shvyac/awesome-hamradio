@@ -4,6 +4,7 @@ https://awesomelists.top/   Awesome Search - Quick search for Awesome lists.
 
 https://awesome-indexed.mathew-davies.co.uk/   Awesome Indexed - Search the Awesome dataset.
 
+
 ---
 
 # Awesome-Hamradio   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -96,6 +97,8 @@ https://github.com/comcat/acarsx
 
 https://www.avicom.co.jp/services/data_link/ ACARS（航空無線データ通信）の使用例
 
+[Morse Code World](https://morsecodeworld.com) — Browser-based Morse code decoder supporting text, audio files, and photos.
+
 https://www.avicom.co.jp/services/data_link/data_02.html ACARSカバーエリア
 
 http://www.jal.com/ja/jiten/dict/p192.html#09-05
@@ -135,6 +138,8 @@ https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils    backup & restore utility
 https://github.com/sindresorhus/awesome
 
 https://github.com/kyleterry/awesome-radio
+
+https://morsecodeworld.com
 
 
 

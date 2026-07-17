@@ -113,6 +113,20 @@ https://sourceforge.net/projects/acarsdec/
 
 https://sourceforge.net/projects/flightairmap/
 
+# APRS
+
+Automatic Packet Reporting System
+
+https://aprs.fi   Classic APRS-IS tracking website by OH7LZB
+
+https://aprs.world   Free live APRS map of the worldwide network — station pages with weather & telemetry, APRS messaging from the browser, 11 languages
+
+https://github.com/ge0rg/aprsdroid   APRSdroid — APRS client for Android
+
+https://github.com/wb2osz/direwolf   Dire Wolf — software TNC, APRS digipeater and igate
+
+https://github.com/qvarforth/trackdirect   APRS Track Direct — tools to run your own APRS website
+
 # Awesome Users on Github
 
 https://github.com/jr8ppg

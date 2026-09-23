@@ -45,7 +45,7 @@ National and international bodies; start here for rules, exams, and advocacy.
 - [IARU Region 1 band plan](https://www.iaru-r1.org/spectrum/band-plans/) - HF / VHF / UHF band-plan documents for Region 1.
 - [IARU Region 2 band plan](https://www.iaru-r2.org/en/resources/band-plans/) - Band-plan resources for the Americas.
 - [ARRL band plan / frequency allocations](https://www.arrl.org/band-plan) - US amateur allocations and notes.
-- [JARL band plan (Japanese)](https://www.jarl.org/Japanese/1_Tanoshimo/1-2_Band_Plan/bandplan.htm) - Japan amateur band plan.
+- [JARL band plan (Japanese)](https://www.jarl.org/Japanese/A_Shiryo/A-3_Band_Plan/A-3-0.htm) - Japan amateur band plan (current edition effective 2025-07-17, PDF).
 
 ---
 
@@ -55,8 +55,10 @@ Receive (and often transmit) software and hardware ecosystems.
 
 - [GNU Radio](https://www.gnuradio.org/) - Free & open-source toolkit of signal-processing blocks for software radios. ([GitHub](https://github.com/gnuradio/gnuradio))
 - [SDRangel](https://www.sdrangel.org/) - Multi-platform Rx/Tx SDR application (Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, and more). ([GitHub](https://github.com/f4exb/sdrangel))
+- [SDR++](https://www.sdrpp.org/) - Lightweight, cross-platform open-source SDR receiver with broad hardware support. ([GitHub](https://github.com/AlexandreRouma/SDRPlusPlus))
 - [Gqrx](https://www.gqrx.dk/) - Open-source SDR receiver powered by GNU Radio and Qt. ([GitHub](https://github.com/gqrx-sdr/gqrx))
 - [CubicSDR](https://cubicsdr.com/) - Cross-platform SDR application. ([GitHub](https://github.com/cjcliffe/CubicSDR))
+- [OpenWebRX+](https://fms.komkon.org/OWRX/) - Extended fork of OpenWebRX: browser-based multi-user SDR receiver with many built-in decoders. ([GitHub](https://github.com/luarvique/openwebrx))
 - [SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor- and platform-neutral SDR support library (hardware abstraction).
 - [RTL-SDR Blog](https://www.rtl-sdr.com/) - News, tutorials, and drivers around low-cost RTL2832U dongles.
 - [Osmocom rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki) - Classic open-source RTL2832U SDR stack.
@@ -67,10 +69,11 @@ Receive (and often transmit) software and hardware ecosystems.
 
 Weak-signal and keyboard modes popular on HF and VHF.
 
-- [WSJT-X](https://wsjtx.github.io/wsjtx/) - Official home of FT8, FT4, WSPR, JT65, Q65, MSK144, and related modes (K1JT / WSJT Development Team). ([Downloads](https://wsjtx.github.io/wsjtx/downloads.html)) · ([GitHub](https://github.com/WSJTX/wsjtx))
+- [WSJT-X](https://wsjtx.github.io/wsjtx/) - Official home of FT8, FT4, WSPR, JT65, Q65, MSK144, and related modes (K1JT / WSJT Development Team); 3.x series (since 2026) adds parallel FT8 decoding and full-duplex operation. ([Downloads](https://wsjtx.github.io/wsjtx/downloads.html)) · ([GitHub](https://github.com/WSJTX/wsjtx))
 - [FT4 / FT8 protocol paper (QEX)](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - Design notes for FT4 and FT8.
 - [JS8Call](https://js8call.com/) - Keyboard messaging built on a robust FSK layer inspired by FT8. ([Improved / community builds](https://github.com/JS8Call-improved))
 - [fldigi](http://www.w1hkj.com/) - Multi-mode digital modem suite (PSK, RTTY, Olivia, CW, and more) by W1HKJ.
+- [FreeDV](https://freedv.org/) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/drowe67/freedv-gui))
 - [GridTracker](https://gridtracker.org/) - Companion map, alerts, and logging bridge for WSJT-X / JTDX style apps. ([Docs](https://docs.gridtracker.org/latest/))
 - [ft8_lib](https://github.com/kgoba/ft8_lib) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
@@ -124,7 +127,7 @@ Automatic Packet Reporting System and related TNCs.
 
 - [ARRL Antenna Book (shop / overview)](https://home.arrl.org/) - Long-running reference series on antenna theory and practice (editions sold via ARRL).
 - [4nec2](https://www.qsl.net/4nec2/) - Free NEC-2 based antenna modeler / optimizer for Windows.
-- [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling (Pro+ lineage).
+- [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling; now a free download (EZNEC Pro/2 v6), no longer sold or supported since W7EL retired.
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
 - [SolarHam](https://www.solarham.net/) - Solar / geomagnetic conditions relevant to HF.
@@ -137,6 +140,7 @@ Automatic Packet Reporting System and related TNCs.
 - [WA7BNM Contest Calendar](https://www.contestcalendar.com/) - Comprehensive worldwide contest calendar.
 - [IARU HF World Championship](https://www.arrl.org/iaru-hf-championship) - Annual IARU HF event (often hosted via ARRL pages).
 - [CQ World Wide DX Contest](https://www.cqww.com/) - Major DX contest series (CW / SSB / RTTY).
+- [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Widely used free Windows contest logger for CW, phone, and digital modes.
 - [JARL contests (Japanese)](https://www.jarl.org/) - National contest calendar and rules via JARL.
 
 ---
@@ -201,7 +205,6 @@ Licensing, society, logging, and local software of particular interest to JA ope
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The Awesome meta-list.
 - [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) - Broader radio / SDR awesome list.
 - [Awesome Search](https://awesomelists.top/) - Quick search across Awesome lists.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/) - Searchable Awesome dataset.
 
 ---
 

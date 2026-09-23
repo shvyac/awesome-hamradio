@@ -45,7 +45,7 @@
 - [IARU Region 1 バンドプラン（英語）](https://www.iaru-r1.org/spectrum/band-plans/) - Region 1 の HF／VHF／UHF バンドプラン文書。
 - [IARU Region 2 バンドプラン（英語）](https://www.iaru-r2.org/en/resources/band-plans/) - 米州向けバンドプラン資料。
 - [ARRL バンドプラン（英語）](https://www.arrl.org/band-plan) - 米国アマチュアの割当と注記。
-- [JARL バンドプラン](https://www.jarl.org/Japanese/1_Tanoshimo/1-2_Band_Plan/bandplan.htm) - 日本のアマチュア無線バンドプラン。
+- [JARL バンドプラン](https://www.jarl.org/Japanese/A_Shiryo/A-3_Band_Plan/A-3-0.htm) - 日本のアマチュア無線バンドプラン（現行版は令和7年7月17日施行、PDF あり）。
 
 ---
 
@@ -55,8 +55,10 @@
 
 - [GNU Radio（英語）](https://www.gnuradio.org/) - ソフトウェア無線向け信号処理ブロックのオープンソース・ツールキット。（[GitHub](https://github.com/gnuradio/gnuradio)）
 - [SDRangel（英語）](https://www.sdrangel.org/) - マルチプラットフォームの Rx／Tx SDR アプリ（Airspy、BladeRF、HackRF、LimeSDR、PlutoSDR、RTL-SDR など）。（[GitHub](https://github.com/f4exb/sdrangel)）
+- [SDR++（英語）](https://www.sdrpp.org/) - 軽量でシンプルなクロスプラットフォームのオープンソース SDR 受信ソフト。対応ハードウェアが豊富。（[GitHub](https://github.com/AlexandreRouma/SDRPlusPlus)）
 - [Gqrx（英語）](https://www.gqrx.dk/) - GNU Radio と Qt ベースのオープンソース SDR 受信機。（[GitHub](https://github.com/gqrx-sdr/gqrx)）
 - [CubicSDR（英語）](https://cubicsdr.com/) - クロスプラットフォーム SDR アプリ。（[GitHub](https://github.com/cjcliffe/CubicSDR)）
+- [OpenWebRX+（英語）](https://fms.komkon.org/OWRX/) - OpenWebRX の拡張フォーク。ブラウザから使える複数ユーザー対応 SDR 受信機で、多数のデコーダを内蔵。（[GitHub](https://github.com/luarvique/openwebrx)）
 - [SoapySDR（英語）](https://github.com/pothosware/SoapySDR) - ベンダー非依存の SDR サポートライブラリ（ハードウェア抽象化）。
 - [RTL-SDR Blog（英語）](https://www.rtl-sdr.com/) - 安価な RTL2832U ドングル周辺のニュース・チュートリアル・ドライバ。
 - [Osmocom rtl-sdr（英語）](https://osmocom.org/projects/rtl-sdr/wiki) - 定番の RTL2832U オープンソース SDR スタック。
@@ -67,10 +69,11 @@
 
 HF／VHF で人気の弱信号・キーボード系モード。
 
-- [WSJT-X（英語）](https://wsjtx.github.io/wsjtx/) - FT8、FT4、WSPR、JT65、Q65、MSK144 などの公式ホーム（K1JT／WSJT 開発チーム）。（[Downloads](https://wsjtx.github.io/wsjtx/downloads.html)）·（[GitHub](https://github.com/WSJTX/wsjtx)）
+- [WSJT-X（英語）](https://wsjtx.github.io/wsjtx/) - FT8、FT4、WSPR、JT65、Q65、MSK144 などの公式ホーム（K1JT／WSJT 開発チーム）。2026 年からの 3.x 系で FT8 並列デコードや全二重運用に対応。（[Downloads](https://wsjtx.github.io/wsjtx/downloads.html)）·（[GitHub](https://github.com/WSJTX/wsjtx)）
 - [FT4／FT8 プロトコル解説（QEX）（英語）](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - FT4／FT8 の設計メモ。
 - [JS8Call（英語）](https://js8call.com/) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。（[Improved／コミュニティビルド](https://github.com/JS8Call-improved)）
 - [fldigi（英語）](http://www.w1hkj.com/) - PSK、RTTY、Olivia、CW など多モードのデジタルモデム群（W1HKJ）。
+- [FreeDV（英語）](https://freedv.org/) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/drowe67/freedv-gui)）
 - [GridTracker（英語）](https://gridtracker.org/) - WSJT-X／JTDX 系のマップ・アラート・ログ連携コンパニオン。（[Docs](https://docs.gridtracker.org/latest/)）
 - [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) - FT8 エンコード／デコード向け軽量 C ライブラリ。
 - [Morse Code World（英語）](https://morsecodeworld.com/) - ブラウザ上のモールス符号化／復号（テキスト・音声・画像）。
@@ -124,7 +127,7 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [ARRL Antenna Book（英語・概要）](https://home.arrl.org/) - アンテナ理論・実践の定番シリーズ（ARRL 経由で販売）。
 - [4nec2（英語）](https://www.qsl.net/4nec2/) - Windows 向け無料 NEC-2 アンテナモデラー／最適化ツール。
-- [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング（Pro+ 系譜）。
+- [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング。作者 W7EL の引退に伴い販売・サポートを終了し、現在は無料配布（EZNEC Pro/2 v6）。
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
 - [SolarHam（英語）](https://www.solarham.net/) - HF に影響する太陽・地磁気コンディション。
@@ -137,6 +140,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [WA7BNM Contest Calendar（英語）](https://www.contestcalendar.com/) - 世界のコンテストを網羅したカレンダー。
 - [IARU HF World Championship（英語）](https://www.arrl.org/iaru-hf-championship) - 年次 IARU HF コンテスト（ARRL ページ経由が多い）。
 - [CQ World Wide DX Contest（英語）](https://www.cqww.com/) - 大型 DX コンテストシリーズ（CW／SSB／RTTY）。
+- [N1MM Logger+（英語）](https://n1mmwp.hamdocs.com/) - CW・フォーン・デジタル対応で世界的に定番の無料 Windows コンテストロガー。
 - [JARL コンテスト](https://www.jarl.org/) - 国内コンテストの日程・規約は JARL サイトを参照。
 
 ---
@@ -201,7 +205,6 @@ Automatic Packet Reporting System と関連 TNC。
 - [sindresorhus/awesome（英語）](https://github.com/sindresorhus/awesome) - Awesome のメタリスト。
 - [kyleterry/awesome-radio（英語）](https://github.com/kyleterry/awesome-radio) - より広い無線／SDR 向け Awesome リスト。
 - [Awesome Search（英語）](https://awesomelists.top/) - Awesome リスト横断検索。
-- [Awesome Indexed（英語）](https://awesome-indexed.mathew-davies.co.uk/) - Awesome データセットの検索。
 
 ---
 

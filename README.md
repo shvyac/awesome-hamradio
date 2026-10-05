@@ -71,10 +71,11 @@ Weak-signal and keyboard modes popular on HF and VHF.
 
 - [WSJT-X](https://wsjtx.github.io/wsjtx/) - Official home of FT8, FT4, WSPR, JT65, Q65, MSK144, and related modes (K1JT / WSJT Development Team); 3.x series (since 2026) adds parallel FT8 decoding and full-duplex operation. ([Downloads](https://wsjtx.github.io/wsjtx/downloads.html)) · ([GitHub](https://github.com/WSJTX/wsjtx))
 - [FT4 / FT8 protocol paper (QEX)](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - Design notes for FT4 and FT8.
-- [JS8Call](https://js8call.com/) - Keyboard messaging built on a robust FSK layer inspired by FT8. ([Improved / community builds](https://github.com/JS8Call-improved))
+- [JS8Call](https://js8call.com/) - Keyboard messaging built on a robust FSK layer inspired by FT8; now developed by the JS8Call-Improved team (original repo archived), 3.x series. ([GitHub](https://github.com/JS8Call-improved/JS8Call-improved))
 - [fldigi](http://www.w1hkj.com/) - Multi-mode digital modem suite (PSK, RTTY, Olivia, CW, and more) by W1HKJ.
 - [FreeDV](https://freedv.org/) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/drowe67/freedv-gui))
 - [GridTracker](https://gridtracker.org/) - Companion map, alerts, and logging bridge for WSJT-X / JTDX style apps. ([Docs](https://docs.gridtracker.org/latest/))
+- [M17 Project](https://m17project.org/) - Open-source digital radio protocol for VHF/UHF voice and data (Codec 2), with open hardware and gateway software.
 - [ft8_lib](https://github.com/kgoba/ft8_lib) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
 
@@ -87,7 +88,9 @@ Station logs, electronic QSL, and award tracking.
 - [Logbook of The World (LoTW)](https://www.arrl.org/logbook-of-the-world) - ARRL’s electronic QSO confirmation system (TQSL certificates; DXCC / WAS credit).
 - [Club Log](https://clublog.org/) - Log analysis, DXCC tracking, and LoTW Trusted Partner uploads.
 - [Wavelog](https://www.wavelog.org/) - Modern open-source web logbook (Cloudlog lineage); LoTW / eQSL sync, club stations, contest logger. ([GitHub](https://github.com/wavelog/wavelog))
-- [Cloudlog](https://github.com/magicbug/Cloudlog) - Earlier PHP web logbook; many operators have moved to Wavelog.
+- [Cloudlog](https://github.com/magicbug/Cloudlog) - Original PHP web logbook (still maintained); Wavelog is its community fork.
+- [QLog](https://github.com/foldynl/QLog) - Open-source cross-platform desktop logger (Qt) with Hamlib rig control, LoTW / eQSL / Club Log sync, and WSJT-X integration.
+- [Ham2K Portable Logger (PoLo)](https://polo.ham2k.com/) - Free mobile logger for POTA / SOTA / WWFF and portable operation (iOS / Android). ([GitHub](https://github.com/ham2k/app-polo))
 - [Swisslog](https://www.swisslogforwindows.com/) - Feature-rich Windows logging suite.
 - [zLog](https://github.com/jr8ppg/zLog) - Popular Japanese contest / general logger for Windows (JR8PPG lineage).
 - [eQSL.cc](https://www.eqsl.cc/) - Electronic QSL card exchange.
@@ -130,7 +133,7 @@ Automatic Packet Reporting System and related TNCs.
 - [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling; now a free download (EZNEC Pro/2 v6), no longer sold or supported since W7EL retired.
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
-- [SolarHam](https://www.solarham.net/) - Solar / geomagnetic conditions relevant to HF.
+- [NOAA SWPC](https://www.swpc.noaa.gov/) - Official space-weather forecasts, alerts, and solar / geomagnetic indices relevant to HF.
 
 ---
 
@@ -191,7 +194,7 @@ Licensing, society, logging, and local software of particular interest to JA ope
 
 - [acarsdec](https://github.com/TLeconte/acarsdec) - Multi-channel ACARS decoder.
 - [JAERO](https://github.com/jontio/JAERO) - Aero satcom / ACARS related decoder.
-- [Avicom — ACARS overview (Japanese)](https://www.avicom.co.jp/services/data_link/) - Industry notes on ACARS data-link use in Japan.
+- [Avicom — ACARS overview (Japanese)](https://www.avicom.co.jp/service/data-link/) - Industry notes on ACARS data-link use in Japan.
 
 ### Radio-specific tooling
 
@@ -204,7 +207,7 @@ Licensing, society, logging, and local software of particular interest to JA ope
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The Awesome meta-list.
 - [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) - Broader radio / SDR awesome list.
-- [Awesome Search](https://awesomelists.top/) - Quick search across Awesome lists.
+- [Awesome Search](https://awesomelists.calvinjeng.io/) - Quick search across Awesome lists.
 
 ---
 

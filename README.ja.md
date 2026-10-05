@@ -71,10 +71,11 @@ HF／VHF で人気の弱信号・キーボード系モード。
 
 - [WSJT-X（英語）](https://wsjtx.github.io/wsjtx/) - FT8、FT4、WSPR、JT65、Q65、MSK144 などの公式ホーム（K1JT／WSJT 開発チーム）。2026 年からの 3.x 系で FT8 並列デコードや全二重運用に対応。（[Downloads](https://wsjtx.github.io/wsjtx/downloads.html)）·（[GitHub](https://github.com/WSJTX/wsjtx)）
 - [FT4／FT8 プロトコル解説（QEX）（英語）](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - FT4／FT8 の設計メモ。
-- [JS8Call（英語）](https://js8call.com/) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。（[Improved／コミュニティビルド](https://github.com/JS8Call-improved)）
+- [JS8Call（英語）](https://js8call.com/) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。現在は JS8Call-Improved チームが開発を継承（オリジナルのリポジトリはアーカイブ済み）し、3.x 系を公開中。（[GitHub](https://github.com/JS8Call-improved/JS8Call-improved)）
 - [fldigi（英語）](http://www.w1hkj.com/) - PSK、RTTY、Olivia、CW など多モードのデジタルモデム群（W1HKJ）。
 - [FreeDV（英語）](https://freedv.org/) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/drowe67/freedv-gui)）
 - [GridTracker（英語）](https://gridtracker.org/) - WSJT-X／JTDX 系のマップ・アラート・ログ連携コンパニオン。（[Docs](https://docs.gridtracker.org/latest/)）
+- [M17 Project（英語）](https://m17project.org/) - VHF／UHF の音声・データ向けオープンソース・デジタル無線プロトコル（Codec 2）。オープンハードウェアやゲートウェイソフトも開発。
 - [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) - FT8 エンコード／デコード向け軽量 C ライブラリ。
 - [Morse Code World（英語）](https://morsecodeworld.com/) - ブラウザ上のモールス符号化／復号（テキスト・音声・画像）。
 
@@ -87,7 +88,9 @@ HF／VHF で人気の弱信号・キーボード系モード。
 - [Logbook of The World（LoTW）（英語）](https://www.arrl.org/logbook-of-the-world) - ARRL の電子 QSO 確認システム（TQSL。DXCC／WAS など）。
 - [Club Log（英語）](https://clublog.org/) - ログ分析、DXCC 追跡、LoTW Trusted Partner 連携。
 - [Wavelog（英語）](https://www.wavelog.org/) - モダンなオープンソース Web ログ（Cloudlog 系譜）。LoTW／eQSL 同期、クラブ局、コンテストロガー。（[GitHub](https://github.com/wavelog/wavelog)）
-- [Cloudlog（英語）](https://github.com/magicbug/Cloudlog) - 先行する PHP Web ログ。多くの運用者は Wavelog へ移行中。
+- [Cloudlog（英語）](https://github.com/magicbug/Cloudlog) - 元祖の PHP Web ログ（現在もメンテナンス継続）。Wavelog はそのコミュニティフォーク。
+- [QLog（英語）](https://github.com/foldynl/QLog) - Qt 製のオープンソース・クロスプラットフォーム デスクトップロガー。Hamlib リグ制御、LoTW／eQSL／Club Log 同期、WSJT-X 連携。
+- [Ham2K Portable Logger（PoLo）（英語）](https://polo.ham2k.com/) - POTA／SOTA／WWFF や移動運用向けの無料モバイルロガー（iOS／Android）。（[GitHub](https://github.com/ham2k/app-polo)）
 - [Swisslog（英語）](https://www.swisslogforwindows.com/) - 高機能な Windows ログソフト。
 - [zLog](https://github.com/jr8ppg/zLog) - 日本で広く使われるコンテスト／一般用ロガー（JR8PPG 系譜）。
 - [eQSL.cc（英語）](https://www.eqsl.cc/) - 電子 QSL カード交換。
@@ -130,7 +133,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング。作者 W7EL の引退に伴い販売・サポートを終了し、現在は無料配布（EZNEC Pro/2 v6）。
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
-- [SolarHam（英語）](https://www.solarham.net/) - HF に影響する太陽・地磁気コンディション。
+- [NOAA SWPC（英語）](https://www.swpc.noaa.gov/) - 米国海洋大気庁の宇宙天気予報センター。HF に影響する太陽・地磁気の予報・警報・指数。
 
 ---
 
@@ -191,7 +194,7 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [acarsdec（英語）](https://github.com/TLeconte/acarsdec) - マルチチャネル ACARS デコーダ。
 - [JAERO（英語）](https://github.com/jontio/JAERO) - 航空衛星／ACARS 関連デコーダ。
-- [Avicom — ACARS 概要](https://www.avicom.co.jp/services/data_link/) - 国内における ACARS データリンクの解説。
+- [Avicom — ACARS 概要](https://www.avicom.co.jp/service/data-link/) - 国内における ACARS データリンクの解説。
 
 ### リグ固有ツール
 
@@ -204,7 +207,7 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [sindresorhus/awesome（英語）](https://github.com/sindresorhus/awesome) - Awesome のメタリスト。
 - [kyleterry/awesome-radio（英語）](https://github.com/kyleterry/awesome-radio) - より広い無線／SDR 向け Awesome リスト。
-- [Awesome Search（英語）](https://awesomelists.top/) - Awesome リスト横断検索。
+- [Awesome Search（英語）](https://awesomelists.calvinjeng.io/) - Awesome リスト横断検索。
 
 ---
 

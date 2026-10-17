@@ -4,7 +4,7 @@
 
 [English README](README.md)
 
-**アマチュア無線（ハム）**向けの有用なリソースの厳選リストです。免許・団体、バンドプラン、SDR、デジタルモード、ログ、アンテナ、コンテスト、衛星、APRS、そして日本（JARL）の情報を中心にまとめています。できるだけ公式／プロジェクトの耐久性のある URL を優先しています。
+**アマチュア無線（ハム）**向けの有用なリソースの厳選リストです。免許・団体、バンドプラン、SDR、デジタルモード、ログ、アンテナ、コンテスト、衛星、APRS、そして日本（JARL）の情報を中心にまとめています。できるだけ公式／プロジェクトの耐久性のある URL を優先しています。⭐ バッジは GitHub のスター数をリアルタイム表示します(shields.io)。
 
 ## 目次
 
@@ -23,6 +23,7 @@
 - [日本](#日本)
 - [関連リスト](#関連リスト)
 - [コントリビューション](#コントリビューション)
+- [shvyac の awesome リスト](#shvyac-の-awesome-リスト)
 
 ---
 
@@ -53,13 +54,13 @@
 
 受信（および送受信）向けソフトウェアとハードウェア生態系。
 
-- [GNU Radio（英語）](https://www.gnuradio.org/) - ソフトウェア無線向け信号処理ブロックのオープンソース・ツールキット。（[GitHub](https://github.com/gnuradio/gnuradio)）
-- [SDRangel（英語）](https://www.sdrangel.org/) - マルチプラットフォームの Rx／Tx SDR アプリ（Airspy、BladeRF、HackRF、LimeSDR、PlutoSDR、RTL-SDR など）。（[GitHub](https://github.com/f4exb/sdrangel)）
-- [SDR++（英語）](https://www.sdrpp.org/) - 軽量でシンプルなクロスプラットフォームのオープンソース SDR 受信ソフト。対応ハードウェアが豊富。（[GitHub](https://github.com/AlexandreRouma/SDRPlusPlus)）
-- [Gqrx（英語）](https://www.gqrx.dk/) - GNU Radio と Qt ベースのオープンソース SDR 受信機。（[GitHub](https://github.com/gqrx-sdr/gqrx)）
-- [CubicSDR（英語）](https://cubicsdr.com/) - クロスプラットフォーム SDR アプリ。（[GitHub](https://github.com/cjcliffe/CubicSDR)）
-- [OpenWebRX+（英語）](https://fms.komkon.org/OWRX/) - OpenWebRX の拡張フォーク。ブラウザから使える複数ユーザー対応 SDR 受信機で、多数のデコーダを内蔵。（[GitHub](https://github.com/luarvique/openwebrx)）
-- [SoapySDR（英語）](https://github.com/pothosware/SoapySDR) - ベンダー非依存の SDR サポートライブラリ（ハードウェア抽象化）。
+- [GNU Radio（英語）](https://www.gnuradio.org/) ![GitHub stars](https://img.shields.io/github/stars/gnuradio/gnuradio?style=flat&label=%E2%AD%90) - ソフトウェア無線向け信号処理ブロックのオープンソース・ツールキット。（[GitHub](https://github.com/gnuradio/gnuradio)）
+- [SDRangel（英語）](https://www.sdrangel.org/) ![GitHub stars](https://img.shields.io/github/stars/f4exb/sdrangel?style=flat&label=%E2%AD%90) - マルチプラットフォームの Rx／Tx SDR アプリ（Airspy、BladeRF、HackRF、LimeSDR、PlutoSDR、RTL-SDR など）。（[GitHub](https://github.com/f4exb/sdrangel)）
+- [SDR++（英語）](https://www.sdrpp.org/) ![GitHub stars](https://img.shields.io/github/stars/AlexandreRouma/SDRPlusPlus?style=flat&label=%E2%AD%90) - 軽量でシンプルなクロスプラットフォームのオープンソース SDR 受信ソフト。対応ハードウェアが豊富。（[GitHub](https://github.com/AlexandreRouma/SDRPlusPlus)）
+- [Gqrx（英語）](https://www.gqrx.dk/) ![GitHub stars](https://img.shields.io/github/stars/gqrx-sdr/gqrx?style=flat&label=%E2%AD%90) - GNU Radio と Qt ベースのオープンソース SDR 受信機。（[GitHub](https://github.com/gqrx-sdr/gqrx)）
+- [CubicSDR（英語）](https://cubicsdr.com/) ![GitHub stars](https://img.shields.io/github/stars/cjcliffe/CubicSDR?style=flat&label=%E2%AD%90) - クロスプラットフォーム SDR アプリ。（[GitHub](https://github.com/cjcliffe/CubicSDR)）
+- [OpenWebRX+（英語）](https://fms.komkon.org/OWRX/) ![GitHub stars](https://img.shields.io/github/stars/luarvique/openwebrx?style=flat&label=%E2%AD%90) - OpenWebRX の拡張フォーク。ブラウザから使える複数ユーザー対応 SDR 受信機で、多数のデコーダを内蔵。（[GitHub](https://github.com/luarvique/openwebrx)）
+- [SoapySDR（英語）](https://github.com/pothosware/SoapySDR) ![GitHub stars](https://img.shields.io/github/stars/pothosware/SoapySDR?style=flat&label=%E2%AD%90) - ベンダー非依存の SDR サポートライブラリ（ハードウェア抽象化）。
 - [RTL-SDR Blog（英語）](https://www.rtl-sdr.com/) - 安価な RTL2832U ドングル周辺のニュース・チュートリアル・ドライバ。
 - [Osmocom rtl-sdr（英語）](https://osmocom.org/projects/rtl-sdr/wiki) - 定番の RTL2832U オープンソース SDR スタック。
 
@@ -69,14 +70,14 @@
 
 HF／VHF で人気の弱信号・キーボード系モード。
 
-- [WSJT-X（英語）](https://wsjtx.github.io/wsjtx/) - FT8、FT4、WSPR、JT65、Q65、MSK144 などの公式ホーム（K1JT／WSJT 開発チーム）。2026 年からの 3.x 系で FT8 並列デコードや全二重運用に対応。（[Downloads](https://wsjtx.github.io/wsjtx/downloads.html)）·（[GitHub](https://github.com/WSJTX/wsjtx)）
+- [WSJT-X（英語）](https://wsjtx.github.io/wsjtx/) ![GitHub stars](https://img.shields.io/github/stars/WSJTX/wsjtx?style=flat&label=%E2%AD%90) - FT8、FT4、WSPR、JT65、Q65、MSK144 などの公式ホーム（K1JT／WSJT 開発チーム）。2026 年からの 3.x 系で FT8 並列デコードや全二重運用に対応。（[Downloads](https://wsjtx.github.io/wsjtx/downloads.html)）·（[GitHub](https://github.com/WSJTX/wsjtx)）
 - [FT4／FT8 プロトコル解説（QEX）（英語）](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - FT4／FT8 の設計メモ。
-- [JS8Call（英語）](https://js8call.com/) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。現在は JS8Call-Improved チームが開発を継承（オリジナルのリポジトリはアーカイブ済み）し、3.x 系を公開中。（[GitHub](https://github.com/JS8Call-improved/JS8Call-improved)）
+- [JS8Call（英語）](https://js8call.com/) ![GitHub stars](https://img.shields.io/github/stars/JS8Call-improved/JS8Call-improved?style=flat&label=%E2%AD%90) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。現在は JS8Call-Improved チームが開発を継承（オリジナルのリポジトリはアーカイブ済み）し、3.x 系を公開中。（[GitHub](https://github.com/JS8Call-improved/JS8Call-improved)）
 - [fldigi（英語）](http://www.w1hkj.com/) - PSK、RTTY、Olivia、CW など多モードのデジタルモデム群（W1HKJ）。
-- [FreeDV（英語）](https://freedv.org/) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/drowe67/freedv-gui)）
+- [FreeDV（英語）](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/drowe67/freedv-gui?style=flat&label=%E2%AD%90) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/drowe67/freedv-gui)）
 - [GridTracker（英語）](https://gridtracker.org/) - WSJT-X／JTDX 系のマップ・アラート・ログ連携コンパニオン。（[Docs](https://docs.gridtracker.org/latest/)）
 - [M17 Project（英語）](https://m17project.org/) - VHF／UHF の音声・データ向けオープンソース・デジタル無線プロトコル（Codec 2）。オープンハードウェアやゲートウェイソフトも開発。
-- [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) - FT8 エンコード／デコード向け軽量 C ライブラリ。
+- [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - FT8 エンコード／デコード向け軽量 C ライブラリ。
 - [Morse Code World（英語）](https://morsecodeworld.com/) - ブラウザ上のモールス符号化／復号（テキスト・音声・画像）。
 
 ---
@@ -87,12 +88,12 @@ HF／VHF で人気の弱信号・キーボード系モード。
 
 - [Logbook of The World（LoTW）（英語）](https://www.arrl.org/logbook-of-the-world) - ARRL の電子 QSO 確認システム（TQSL。DXCC／WAS など）。
 - [Club Log（英語）](https://clublog.org/) - ログ分析、DXCC 追跡、LoTW Trusted Partner 連携。
-- [Wavelog（英語）](https://www.wavelog.org/) - モダンなオープンソース Web ログ（Cloudlog 系譜）。LoTW／eQSL 同期、クラブ局、コンテストロガー。（[GitHub](https://github.com/wavelog/wavelog)）
-- [Cloudlog（英語）](https://github.com/magicbug/Cloudlog) - 元祖の PHP Web ログ（現在もメンテナンス継続）。Wavelog はそのコミュニティフォーク。
-- [QLog（英語）](https://github.com/foldynl/QLog) - Qt 製のオープンソース・クロスプラットフォーム デスクトップロガー。Hamlib リグ制御、LoTW／eQSL／Club Log 同期、WSJT-X 連携。
-- [Ham2K Portable Logger（PoLo）（英語）](https://polo.ham2k.com/) - POTA／SOTA／WWFF や移動運用向けの無料モバイルロガー（iOS／Android）。（[GitHub](https://github.com/ham2k/app-polo)）
+- [Wavelog（英語）](https://www.wavelog.org/) ![GitHub stars](https://img.shields.io/github/stars/wavelog/wavelog?style=flat&label=%E2%AD%90) - モダンなオープンソース Web ログ（Cloudlog 系譜）。LoTW／eQSL 同期、クラブ局、コンテストロガー。（[GitHub](https://github.com/wavelog/wavelog)）
+- [Cloudlog（英語）](https://github.com/magicbug/Cloudlog) ![GitHub stars](https://img.shields.io/github/stars/magicbug/Cloudlog?style=flat&label=%E2%AD%90) - 元祖の PHP Web ログ（現在もメンテナンス継続）。Wavelog はそのコミュニティフォーク。
+- [QLog（英語）](https://github.com/foldynl/QLog) ![GitHub stars](https://img.shields.io/github/stars/foldynl/QLog?style=flat&label=%E2%AD%90) - Qt 製のオープンソース・クロスプラットフォーム デスクトップロガー。Hamlib リグ制御、LoTW／eQSL／Club Log 同期、WSJT-X 連携。
+- [Ham2K Portable Logger（PoLo）（英語）](https://polo.ham2k.com/) ![GitHub stars](https://img.shields.io/github/stars/ham2k/app-polo?style=flat&label=%E2%AD%90) - POTA／SOTA／WWFF や移動運用向けの無料モバイルロガー（iOS／Android）。（[GitHub](https://github.com/ham2k/app-polo)）
 - [Swisslog（英語）](https://www.swisslogforwindows.com/) - 高機能な Windows ログソフト。
-- [zLog](https://github.com/jr8ppg/zLog) - 日本で広く使われるコンテスト／一般用ロガー（JR8PPG 系譜）。
+- [zLog](https://github.com/jr8ppg/zLog) ![GitHub stars](https://img.shields.io/github/stars/jr8ppg/zLog?style=flat&label=%E2%AD%90) - 日本で広く使われるコンテスト／一般用ロガー（JR8PPG 系譜）。
 - [eQSL.cc（英語）](https://www.eqsl.cc/) - 電子 QSL カード交換。
 - [QRZ.com（英語）](https://www.qrz.com/) - コールサイン検索、自己紹介ページ、ログ機能。
 
@@ -100,7 +101,7 @@ HF／VHF で人気の弱信号・キーボード系モード。
 
 ## リグコントロール（CAT）
 
-- [Hamlib（英語）](https://hamlib.github.io/) - 多くのアプリが使うポータブルなリグ制御ライブラリと `rigctl`／`rigctld`。（[GitHub](https://github.com/Hamlib/Hamlib)）
+- [Hamlib（英語）](https://hamlib.github.io/) ![GitHub stars](https://img.shields.io/github/stars/Hamlib/Hamlib?style=flat&label=%E2%AD%90) - 多くのアプリが使うポータブルなリグ制御ライブラリと `rigctl`／`rigctld`。（[GitHub](https://github.com/Hamlib/Hamlib)）
 - [flrig（英語）](http://www.w1hkj.com/) - fldigi 向けリグ制御コンパニオン（XML-RPC／CAT）。
 
 ---
@@ -111,9 +112,10 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [aprs.fi（英語）](https://aprs.fi/) - 定番の APRS-IS トラッキング地図（OH7LZB）。
 - [aprs.world（英語）](https://aprs.world/) - 世界地図ベースのライブ APRS。メッセージや多言語 UI。
-- [Dire Wolf（英語）](https://github.com/wb2osz/direwolf) - ソフトウェア TNC、APRS デジピーター、iGate。
-- [APRSdroid（英語）](https://github.com/ge0rg/aprsdroid) - Android 向け APRS クライアント。
-- [APRS Track Direct（英語）](https://github.com/qvarforth/trackdirect) - 独自 APRS サイト構築用ツール。
+- [Dire Wolf（英語）](https://github.com/wb2osz/direwolf) ![GitHub stars](https://img.shields.io/github/stars/wb2osz/direwolf?style=flat&label=%E2%AD%90) - ソフトウェア TNC、APRS デジピーター、iGate。
+- [Pat（英語）](https://getpat.io/) ![GitHub stars](https://img.shields.io/github/stars/la5nta/pat?style=flat&label=%E2%AD%90) - Go 製のクロスプラットフォーム Winlink メールクライアント（Web UI）。AX.25 パケット、ARDOP、VARA、PACTOR に対応し、2026 年に v1.0 に到達。（[GitHub](https://github.com/la5nta/pat)）
+- [APRSdroid（英語）](https://github.com/ge0rg/aprsdroid) ![GitHub stars](https://img.shields.io/github/stars/ge0rg/aprsdroid?style=flat&label=%E2%AD%90) - Android 向け APRS クライアント。
+- [APRS Track Direct（英語）](https://github.com/qvarforth/trackdirect) ![GitHub stars](https://img.shields.io/github/stars/qvarforth/trackdirect?style=flat&label=%E2%AD%90) - 独自 APRS サイト構築用ツール。
 
 ---
 
@@ -121,6 +123,8 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [AMSAT（英語）](https://www.amsat.org/) - アマチュア衛星のニュース・状態・教育リソース。
 - [SatNOGS（英語）](https://satnogs.org/) - 衛星観測のためのオープンな地上局ネットワーク。（[Wiki](https://wiki.satnogs.org/)）
+- [Gpredict（英語）](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - リアルタイム衛星追尾・軌道予測。Hamlib 経由でリグ／ローテーター制御（ドップラー補正）が可能。
+- [SatDump（英語）](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - 汎用の衛星データ処理ソフト。SDR によるライブ受信で気象衛星などをデコード（NOAA APT、Meteor LRPT、GOES など）。2.0 を開発中。（[GitHub](https://github.com/SatDump/SatDump)）
 - [IARU 衛星周波数調整（英語）](https://www.iaru.org/reference/satellites/) - アマチュア衛星周波数の調整手順。
 - [JARL — アマチュア衛星（English）](https://www.jarl.org/English/) - JARL 経由の日本アマチュア衛星情報。
 
@@ -162,10 +166,10 @@ Automatic Packet Reporting System と関連 TNC。
 
 自作復調・SDR アプリ・オーディオ処理向け。
 
-- [liquid-dsp（英語）](https://liquidsdr.org/) - SDR 向けデジタル信号処理ライブラリ。（[GitHub](https://github.com/jgaeddert/liquid-dsp)）
-- [FFTW（英語）](https://www.fftw.org/) - 高速フーリエ変換ライブラリ。（[GitHub](https://github.com/FFTW/fftw3)）
-- [Kiss FFT（英語）](https://github.com/mborgerding/kissfft) - 小さく単純な FFT 実装。
-- [RtAudio（英語）](https://www.music.mcgill.ca/~gary/rtaudio/) - クロスプラットフォームのリアルタイム音声 I/O API。（[GitHub](https://github.com/thestk/rtaudio)）
+- [liquid-dsp（英語）](https://liquidsdr.org/) ![GitHub stars](https://img.shields.io/github/stars/jgaeddert/liquid-dsp?style=flat&label=%E2%AD%90) - SDR 向けデジタル信号処理ライブラリ。（[GitHub](https://github.com/jgaeddert/liquid-dsp)）
+- [FFTW（英語）](https://www.fftw.org/) ![GitHub stars](https://img.shields.io/github/stars/FFTW/fftw3?style=flat&label=%E2%AD%90) - 高速フーリエ変換ライブラリ。（[GitHub](https://github.com/FFTW/fftw3)）
+- [Kiss FFT（英語）](https://github.com/mborgerding/kissfft) ![GitHub stars](https://img.shields.io/github/stars/mborgerding/kissfft?style=flat&label=%E2%AD%90) - 小さく単純な FFT 実装。
+- [RtAudio（英語）](https://www.music.mcgill.ca/~gary/rtaudio/) ![GitHub stars](https://img.shields.io/github/stars/thestk/rtaudio?style=flat&label=%E2%AD%90) - クロスプラットフォームのリアルタイム音声 I/O API。（[GitHub](https://github.com/thestk/rtaudio)）
 
 ---
 
@@ -186,27 +190,27 @@ Automatic Packet Reporting System と関連 TNC。
 
 ### ソフト・コミュニティ（JA）
 
-- [zLog](https://github.com/jr8ppg/zLog) - 国内で定番のコンテスト／一般用ロガー。
+- [zLog](https://github.com/jr8ppg/zLog) ![GitHub stars](https://img.shields.io/github/stars/jr8ppg/zLog?style=flat&label=%E2%AD%90) - 国内で定番のコンテスト／一般用ロガー。
 - [nextzlog](https://github.com/nextzlog) - 関連する日本語ログ／コンテストツール群。
 - [jr8ppg](https://github.com/jr8ppg) · [StudioZaigo](https://github.com/StudioZaigo) · [ji1udd](https://github.com/ji1udd) - GitHub 上で活発な日本人アマチュア無線開発者。
 
 ### ACARS・航空データ（参考）
 
-- [acarsdec（英語）](https://github.com/TLeconte/acarsdec) - マルチチャネル ACARS デコーダ。
-- [JAERO（英語）](https://github.com/jontio/JAERO) - 航空衛星／ACARS 関連デコーダ。
+- [acarsdec（英語）](https://github.com/TLeconte/acarsdec) ![GitHub stars](https://img.shields.io/github/stars/TLeconte/acarsdec?style=flat&label=%E2%AD%90) - マルチチャネル ACARS デコーダ（オリジナルのリポジトリはアーカイブ済み。活発にメンテナンスされているフォーク: [f00b4r0/acarsdec](https://github.com/f00b4r0/acarsdec) ![GitHub stars](https://img.shields.io/github/stars/f00b4r0/acarsdec?style=flat&label=%E2%AD%90)）。
+- [JAERO（英語）](https://github.com/jontio/JAERO) ![GitHub stars](https://img.shields.io/github/stars/jontio/JAERO?style=flat&label=%E2%AD%90) - 航空衛星／ACARS 関連デコーダ。
 - [Avicom — ACARS 概要](https://www.avicom.co.jp/service/data-link/) - 国内における ACARS データリンクの解説。
 
 ### リグ固有ツール
 
-- [FT-991A interoperability tools（英語）](https://github.com/j0ju/ft991a-interoperability-tools) - Yaesu FT-991A 向け非公式ドキュメント／ツール。
-- [RALF FT-991A ExMenu Utils（英語）](https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils) - FT-991A 拡張メニューのバックアップ／復元。
+- [FT-991A interoperability tools（英語）](https://github.com/j0ju/ft991a-interoperability-tools) ![GitHub stars](https://img.shields.io/github/stars/j0ju/ft991a-interoperability-tools?style=flat&label=%E2%AD%90) - Yaesu FT-991A 向け非公式ドキュメント／ツール。
+- [RALF FT-991A ExMenu Utils（英語）](https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils) ![GitHub stars](https://img.shields.io/github/stars/AdotGdot/RALF.FT991A.ExMenu.Utils?style=flat&label=%E2%AD%90) - FT-991A 拡張メニューのバックアップ／復元。
 
 ---
 
 ## 関連リスト
 
-- [sindresorhus/awesome（英語）](https://github.com/sindresorhus/awesome) - Awesome のメタリスト。
-- [kyleterry/awesome-radio（英語）](https://github.com/kyleterry/awesome-radio) - より広い無線／SDR 向け Awesome リスト。
+- [sindresorhus/awesome（英語）](https://github.com/sindresorhus/awesome) ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat&label=%E2%AD%90) - Awesome のメタリスト。
+- [kyleterry/awesome-radio（英語）](https://github.com/kyleterry/awesome-radio) ![GitHub stars](https://img.shields.io/github/stars/kyleterry/awesome-radio?style=flat&label=%E2%AD%90) - より広い無線／SDR 向け Awesome リスト。
 - [Awesome Search（英語）](https://awesomelists.calvinjeng.io/) - Awesome リスト横断検索。
 
 ---
@@ -216,3 +220,27 @@ Automatic Packet Reporting System と関連 TNC。
 コントリビューション歓迎です。リソース追加、リンク切れ修正、カテゴリ提案はプルリクエストでどうぞ。
 
 **公式／ドキュメントの耐久性のある URL**、短い説明、継続的にメンテナンスされているプロジェクトを優先してください。製品名・団体名はそのまま。言語や地域が分かるように書くと親切です。可能なら `README.md` と `README.ja.md` の両方を更新してください。
+
+---
+
+## shvyac の awesome リスト
+
+[shvyac](https://github.com/shvyac) が管理しているキュレーションリストの一覧:
+
+- [awesome-hamradio](https://github.com/shvyac/awesome-hamradio) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hamradio?style=flat&label=%E2%AD%90)
+- [awesome-cad-cae](https://github.com/shvyac/awesome-cad-cae) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cad-cae?style=flat&label=%E2%AD%90)
+- [awesome-map-gis](https://github.com/shvyac/awesome-map-gis) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-map-gis?style=flat&label=%E2%AD%90)
+- [awesome-ballroom-dance](https://github.com/shvyac/awesome-ballroom-dance) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ballroom-dance?style=flat&label=%E2%AD%90)
+- [awesome-ghost-artists](https://github.com/shvyac/awesome-ghost-artists) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ghost-artists?style=flat&label=%E2%AD%90)
+- [awesome-audio-softwares](https://github.com/shvyac/awesome-audio-softwares) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-audio-softwares?style=flat&label=%E2%AD%90)
+- [awesome-online-services](https://github.com/shvyac/awesome-online-services) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-online-services?style=flat&label=%E2%AD%90)
+- [awesome-trading-stock](https://github.com/shvyac/awesome-trading-stock) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-trading-stock?style=flat&label=%E2%AD%90)
+- [awesome-open-source-solvers](https://github.com/shvyac/awesome-open-source-solvers) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-open-source-solvers?style=flat&label=%E2%AD%90)
+- [awesome-m5stack-arduino](https://github.com/shvyac/awesome-m5stack-arduino) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-m5stack-arduino?style=flat&label=%E2%AD%90)
+- [awesome-AI-Powered-Executive-Dashboards](https://github.com/shvyac/awesome-AI-Powered-Executive-Dashboards) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-AI-Powered-Executive-Dashboards?style=flat&label=%E2%AD%90)
+- [awesome-ai-tool-for-mechanical-engineering](https://github.com/shvyac/awesome-ai-tool-for-mechanical-engineering) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ai-tool-for-mechanical-engineering?style=flat&label=%E2%AD%90)
+- [awesome-local-llm](https://github.com/shvyac/awesome-local-llm) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-local-llm?style=flat&label=%E2%AD%90)
+- [awesome-redmine-ai](https://github.com/shvyac/awesome-redmine-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-redmine-ai?style=flat&label=%E2%AD%90)
+- [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
+- [awesome-osint-ai](https://github.com/shvyac/awesome-osint-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-osint-ai?style=flat&label=%E2%AD%90)
+- [awesome-cms-ai](https://github.com/shvyac/awesome-cms-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cms-ai?style=flat&label=%E2%AD%90)

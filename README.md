@@ -4,7 +4,7 @@
 
 [日本語版はこちら / Japanese](README.ja.md)
 
-A curated list of useful **amateur / ham radio** resources — licensing & societies, band plans, SDR, digital modes, logging, antennas, contests, satellites, APRS, and the Japan (JARL) scene. Prefer durable official / project URLs.
+A curated list of useful **amateur / ham radio** resources — licensing & societies, band plans, SDR, digital modes, logging, antennas, contests, satellites, APRS, and the Japan (JARL) scene. Prefer durable official / project URLs. ⭐ badges show live GitHub star counts (via shields.io).
 
 ## Contents
 
@@ -23,6 +23,7 @@ A curated list of useful **amateur / ham radio** resources — licensing & socie
 - [Japan](#japan)
 - [Related lists](#related-lists)
 - [Contributing](#contributing)
+- [shvyac's awesome lists](#shvyacs-awesome-lists)
 
 ---
 
@@ -53,13 +54,13 @@ National and international bodies; start here for rules, exams, and advocacy.
 
 Receive (and often transmit) software and hardware ecosystems.
 
-- [GNU Radio](https://www.gnuradio.org/) - Free & open-source toolkit of signal-processing blocks for software radios. ([GitHub](https://github.com/gnuradio/gnuradio))
-- [SDRangel](https://www.sdrangel.org/) - Multi-platform Rx/Tx SDR application (Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, and more). ([GitHub](https://github.com/f4exb/sdrangel))
-- [SDR++](https://www.sdrpp.org/) - Lightweight, cross-platform open-source SDR receiver with broad hardware support. ([GitHub](https://github.com/AlexandreRouma/SDRPlusPlus))
-- [Gqrx](https://www.gqrx.dk/) - Open-source SDR receiver powered by GNU Radio and Qt. ([GitHub](https://github.com/gqrx-sdr/gqrx))
-- [CubicSDR](https://cubicsdr.com/) - Cross-platform SDR application. ([GitHub](https://github.com/cjcliffe/CubicSDR))
-- [OpenWebRX+](https://fms.komkon.org/OWRX/) - Extended fork of OpenWebRX: browser-based multi-user SDR receiver with many built-in decoders. ([GitHub](https://github.com/luarvique/openwebrx))
-- [SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor- and platform-neutral SDR support library (hardware abstraction).
+- [GNU Radio](https://www.gnuradio.org/) ![GitHub stars](https://img.shields.io/github/stars/gnuradio/gnuradio?style=flat&label=%E2%AD%90) - Free & open-source toolkit of signal-processing blocks for software radios. ([GitHub](https://github.com/gnuradio/gnuradio))
+- [SDRangel](https://www.sdrangel.org/) ![GitHub stars](https://img.shields.io/github/stars/f4exb/sdrangel?style=flat&label=%E2%AD%90) - Multi-platform Rx/Tx SDR application (Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, and more). ([GitHub](https://github.com/f4exb/sdrangel))
+- [SDR++](https://www.sdrpp.org/) ![GitHub stars](https://img.shields.io/github/stars/AlexandreRouma/SDRPlusPlus?style=flat&label=%E2%AD%90) - Lightweight, cross-platform open-source SDR receiver with broad hardware support. ([GitHub](https://github.com/AlexandreRouma/SDRPlusPlus))
+- [Gqrx](https://www.gqrx.dk/) ![GitHub stars](https://img.shields.io/github/stars/gqrx-sdr/gqrx?style=flat&label=%E2%AD%90) - Open-source SDR receiver powered by GNU Radio and Qt. ([GitHub](https://github.com/gqrx-sdr/gqrx))
+- [CubicSDR](https://cubicsdr.com/) ![GitHub stars](https://img.shields.io/github/stars/cjcliffe/CubicSDR?style=flat&label=%E2%AD%90) - Cross-platform SDR application. ([GitHub](https://github.com/cjcliffe/CubicSDR))
+- [OpenWebRX+](https://fms.komkon.org/OWRX/) ![GitHub stars](https://img.shields.io/github/stars/luarvique/openwebrx?style=flat&label=%E2%AD%90) - Extended fork of OpenWebRX: browser-based multi-user SDR receiver with many built-in decoders. ([GitHub](https://github.com/luarvique/openwebrx))
+- [SoapySDR](https://github.com/pothosware/SoapySDR) ![GitHub stars](https://img.shields.io/github/stars/pothosware/SoapySDR?style=flat&label=%E2%AD%90) - Vendor- and platform-neutral SDR support library (hardware abstraction).
 - [RTL-SDR Blog](https://www.rtl-sdr.com/) - News, tutorials, and drivers around low-cost RTL2832U dongles.
 - [Osmocom rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki) - Classic open-source RTL2832U SDR stack.
 
@@ -69,14 +70,14 @@ Receive (and often transmit) software and hardware ecosystems.
 
 Weak-signal and keyboard modes popular on HF and VHF.
 
-- [WSJT-X](https://wsjtx.github.io/wsjtx/) - Official home of FT8, FT4, WSPR, JT65, Q65, MSK144, and related modes (K1JT / WSJT Development Team); 3.x series (since 2026) adds parallel FT8 decoding and full-duplex operation. ([Downloads](https://wsjtx.github.io/wsjtx/downloads.html)) · ([GitHub](https://github.com/WSJTX/wsjtx))
+- [WSJT-X](https://wsjtx.github.io/wsjtx/) ![GitHub stars](https://img.shields.io/github/stars/WSJTX/wsjtx?style=flat&label=%E2%AD%90) - Official home of FT8, FT4, WSPR, JT65, Q65, MSK144, and related modes (K1JT / WSJT Development Team); 3.x series (since 2026) adds parallel FT8 decoding and full-duplex operation. ([Downloads](https://wsjtx.github.io/wsjtx/downloads.html)) · ([GitHub](https://github.com/WSJTX/wsjtx))
 - [FT4 / FT8 protocol paper (QEX)](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - Design notes for FT4 and FT8.
-- [JS8Call](https://js8call.com/) - Keyboard messaging built on a robust FSK layer inspired by FT8; now developed by the JS8Call-Improved team (original repo archived), 3.x series. ([GitHub](https://github.com/JS8Call-improved/JS8Call-improved))
+- [JS8Call](https://js8call.com/) ![GitHub stars](https://img.shields.io/github/stars/JS8Call-improved/JS8Call-improved?style=flat&label=%E2%AD%90) - Keyboard messaging built on a robust FSK layer inspired by FT8; now developed by the JS8Call-Improved team (original repo archived), 3.x series. ([GitHub](https://github.com/JS8Call-improved/JS8Call-improved))
 - [fldigi](http://www.w1hkj.com/) - Multi-mode digital modem suite (PSK, RTTY, Olivia, CW, and more) by W1HKJ.
-- [FreeDV](https://freedv.org/) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/drowe67/freedv-gui))
+- [FreeDV](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/drowe67/freedv-gui?style=flat&label=%E2%AD%90) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/drowe67/freedv-gui))
 - [GridTracker](https://gridtracker.org/) - Companion map, alerts, and logging bridge for WSJT-X / JTDX style apps. ([Docs](https://docs.gridtracker.org/latest/))
 - [M17 Project](https://m17project.org/) - Open-source digital radio protocol for VHF/UHF voice and data (Codec 2), with open hardware and gateway software.
-- [ft8_lib](https://github.com/kgoba/ft8_lib) - Lightweight C library for FT8 encoding/decoding.
+- [ft8_lib](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
 
 ---
@@ -87,12 +88,12 @@ Station logs, electronic QSL, and award tracking.
 
 - [Logbook of The World (LoTW)](https://www.arrl.org/logbook-of-the-world) - ARRL’s electronic QSO confirmation system (TQSL certificates; DXCC / WAS credit).
 - [Club Log](https://clublog.org/) - Log analysis, DXCC tracking, and LoTW Trusted Partner uploads.
-- [Wavelog](https://www.wavelog.org/) - Modern open-source web logbook (Cloudlog lineage); LoTW / eQSL sync, club stations, contest logger. ([GitHub](https://github.com/wavelog/wavelog))
-- [Cloudlog](https://github.com/magicbug/Cloudlog) - Original PHP web logbook (still maintained); Wavelog is its community fork.
-- [QLog](https://github.com/foldynl/QLog) - Open-source cross-platform desktop logger (Qt) with Hamlib rig control, LoTW / eQSL / Club Log sync, and WSJT-X integration.
-- [Ham2K Portable Logger (PoLo)](https://polo.ham2k.com/) - Free mobile logger for POTA / SOTA / WWFF and portable operation (iOS / Android). ([GitHub](https://github.com/ham2k/app-polo))
+- [Wavelog](https://www.wavelog.org/) ![GitHub stars](https://img.shields.io/github/stars/wavelog/wavelog?style=flat&label=%E2%AD%90) - Modern open-source web logbook (Cloudlog lineage); LoTW / eQSL sync, club stations, contest logger. ([GitHub](https://github.com/wavelog/wavelog))
+- [Cloudlog](https://github.com/magicbug/Cloudlog) ![GitHub stars](https://img.shields.io/github/stars/magicbug/Cloudlog?style=flat&label=%E2%AD%90) - Original PHP web logbook (still maintained); Wavelog is its community fork.
+- [QLog](https://github.com/foldynl/QLog) ![GitHub stars](https://img.shields.io/github/stars/foldynl/QLog?style=flat&label=%E2%AD%90) - Open-source cross-platform desktop logger (Qt) with Hamlib rig control, LoTW / eQSL / Club Log sync, and WSJT-X integration.
+- [Ham2K Portable Logger (PoLo)](https://polo.ham2k.com/) ![GitHub stars](https://img.shields.io/github/stars/ham2k/app-polo?style=flat&label=%E2%AD%90) - Free mobile logger for POTA / SOTA / WWFF and portable operation (iOS / Android). ([GitHub](https://github.com/ham2k/app-polo))
 - [Swisslog](https://www.swisslogforwindows.com/) - Feature-rich Windows logging suite.
-- [zLog](https://github.com/jr8ppg/zLog) - Popular Japanese contest / general logger for Windows (JR8PPG lineage).
+- [zLog](https://github.com/jr8ppg/zLog) ![GitHub stars](https://img.shields.io/github/stars/jr8ppg/zLog?style=flat&label=%E2%AD%90) - Popular Japanese contest / general logger for Windows (JR8PPG lineage).
 - [eQSL.cc](https://www.eqsl.cc/) - Electronic QSL card exchange.
 - [QRZ.com](https://www.qrz.com/) - Callsign lookup, bio pages, and logbook features.
 
@@ -100,7 +101,7 @@ Station logs, electronic QSL, and award tracking.
 
 ## Radio control & CAT
 
-- [Hamlib](https://hamlib.github.io/) - Portable radio-control library and `rigctl` / `rigctld` daemons used by many apps. ([GitHub](https://github.com/Hamlib/Hamlib))
+- [Hamlib](https://hamlib.github.io/) ![GitHub stars](https://img.shields.io/github/stars/Hamlib/Hamlib?style=flat&label=%E2%AD%90) - Portable radio-control library and `rigctl` / `rigctld` daemons used by many apps. ([GitHub](https://github.com/Hamlib/Hamlib))
 - [flrig](http://www.w1hkj.com/) - Rig-control companion to fldigi (XML-RPC / CAT).
 
 ---
@@ -111,9 +112,10 @@ Automatic Packet Reporting System and related TNCs.
 
 - [aprs.fi](https://aprs.fi/) - Classic APRS-IS tracking map (OH7LZB).
 - [aprs.world](https://aprs.world/) - Live worldwide APRS map with messaging and multi-language UI.
-- [Dire Wolf](https://github.com/wb2osz/direwolf) - Software TNC, APRS digipeater, and iGate.
-- [APRSdroid](https://github.com/ge0rg/aprsdroid) - APRS client for Android.
-- [APRS Track Direct](https://github.com/qvarforth/trackdirect) - Tools to run your own APRS website.
+- [Dire Wolf](https://github.com/wb2osz/direwolf) ![GitHub stars](https://img.shields.io/github/stars/wb2osz/direwolf?style=flat&label=%E2%AD%90) - Software TNC, APRS digipeater, and iGate.
+- [Pat](https://getpat.io/) ![GitHub stars](https://img.shields.io/github/stars/la5nta/pat?style=flat&label=%E2%AD%90) - Cross-platform Winlink email client (Go) with web UI; supports AX.25 packet, ARDOP, VARA, and PACTOR; reached v1.0 in 2026. ([GitHub](https://github.com/la5nta/pat))
+- [APRSdroid](https://github.com/ge0rg/aprsdroid) ![GitHub stars](https://img.shields.io/github/stars/ge0rg/aprsdroid?style=flat&label=%E2%AD%90) - APRS client for Android.
+- [APRS Track Direct](https://github.com/qvarforth/trackdirect) ![GitHub stars](https://img.shields.io/github/stars/qvarforth/trackdirect?style=flat&label=%E2%AD%90) - Tools to run your own APRS website.
 
 ---
 
@@ -121,6 +123,8 @@ Automatic Packet Reporting System and related TNCs.
 
 - [AMSAT](https://www.amsat.org/) - Radio Amateur Satellite Corporation — news, status, and educational resources.
 - [SatNOGS](https://satnogs.org/) - Open global network of ground stations for observing satellites. ([Wiki](https://wiki.satnogs.org/))
+- [Gpredict](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - Real-time satellite tracking and orbit prediction with Hamlib radio / rotator control (Doppler correction).
+- [SatDump](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - Generic satellite data processing software: live SDR reception and decoding of weather and other satellites (NOAA APT, Meteor LRPT, GOES, and more); 2.0 in development. ([GitHub](https://github.com/SatDump/SatDump))
 - [IARU satellite frequency coordination](https://www.iaru.org/reference/satellites/) - How amateur satellite frequencies are coordinated.
 - [JARL — Fuji / amateur satellites (English)](https://www.jarl.org/English/) - Japan amateur-satellite notes via JARL.
 
@@ -162,10 +166,10 @@ Automatic Packet Reporting System and related TNCs.
 
 Useful when building your own demodulators, SDR apps, or audio tools.
 
-- [liquid-dsp](https://liquidsdr.org/) - Digital signal processing library aimed at SDRs. ([GitHub](https://github.com/jgaeddert/liquid-dsp))
-- [FFTW](https://www.fftw.org/) - Fast Fourier Transform library. ([GitHub](https://github.com/FFTW/fftw3))
-- [Kiss FFT](https://github.com/mborgerding/kissfft) - Small, simple FFT implementation.
-- [RtAudio](https://www.music.mcgill.ca/~gary/rtaudio/) - Cross-platform realtime audio I/O API. ([GitHub](https://github.com/thestk/rtaudio))
+- [liquid-dsp](https://liquidsdr.org/) ![GitHub stars](https://img.shields.io/github/stars/jgaeddert/liquid-dsp?style=flat&label=%E2%AD%90) - Digital signal processing library aimed at SDRs. ([GitHub](https://github.com/jgaeddert/liquid-dsp))
+- [FFTW](https://www.fftw.org/) ![GitHub stars](https://img.shields.io/github/stars/FFTW/fftw3?style=flat&label=%E2%AD%90) - Fast Fourier Transform library. ([GitHub](https://github.com/FFTW/fftw3))
+- [Kiss FFT](https://github.com/mborgerding/kissfft) ![GitHub stars](https://img.shields.io/github/stars/mborgerding/kissfft?style=flat&label=%E2%AD%90) - Small, simple FFT implementation.
+- [RtAudio](https://www.music.mcgill.ca/~gary/rtaudio/) ![GitHub stars](https://img.shields.io/github/stars/thestk/rtaudio?style=flat&label=%E2%AD%90) - Cross-platform realtime audio I/O API. ([GitHub](https://github.com/thestk/rtaudio))
 
 ---
 
@@ -186,27 +190,27 @@ Licensing, society, logging, and local software of particular interest to JA ope
 
 ### Software & community (JA)
 
-- [zLog](https://github.com/jr8ppg/zLog) - Contest / general logger popular in Japan.
+- [zLog](https://github.com/jr8ppg/zLog) ![GitHub stars](https://img.shields.io/github/stars/jr8ppg/zLog?style=flat&label=%E2%AD%90) - Contest / general logger popular in Japan.
 - [nextzlog](https://github.com/nextzlog) - Related Japanese logging / contest tooling.
 - [jr8ppg](https://github.com/jr8ppg) · [StudioZaigo](https://github.com/StudioZaigo) · [ji1udd](https://github.com/ji1udd) - Active Japanese amateur-radio developers on GitHub.
 
 ### ACARS & aviation data (JA references)
 
-- [acarsdec](https://github.com/TLeconte/acarsdec) - Multi-channel ACARS decoder.
-- [JAERO](https://github.com/jontio/JAERO) - Aero satcom / ACARS related decoder.
+- [acarsdec](https://github.com/TLeconte/acarsdec) ![GitHub stars](https://img.shields.io/github/stars/TLeconte/acarsdec?style=flat&label=%E2%AD%90) - Multi-channel ACARS decoder (original repo archived; actively maintained fork: [f00b4r0/acarsdec](https://github.com/f00b4r0/acarsdec) ![GitHub stars](https://img.shields.io/github/stars/f00b4r0/acarsdec?style=flat&label=%E2%AD%90)).
+- [JAERO](https://github.com/jontio/JAERO) ![GitHub stars](https://img.shields.io/github/stars/jontio/JAERO?style=flat&label=%E2%AD%90) - Aero satcom / ACARS related decoder.
 - [Avicom — ACARS overview (Japanese)](https://www.avicom.co.jp/service/data-link/) - Industry notes on ACARS data-link use in Japan.
 
 ### Radio-specific tooling
 
-- [FT-991A interoperability tools](https://github.com/j0ju/ft991a-interoperability-tools) - Unofficial docs and tools for Yaesu FT-991A.
-- [RALF FT-991A ExMenu Utils](https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils) - Backup & restore for FT-991A extended menu.
+- [FT-991A interoperability tools](https://github.com/j0ju/ft991a-interoperability-tools) ![GitHub stars](https://img.shields.io/github/stars/j0ju/ft991a-interoperability-tools?style=flat&label=%E2%AD%90) - Unofficial docs and tools for Yaesu FT-991A.
+- [RALF FT-991A ExMenu Utils](https://github.com/AdotGdot/RALF.FT991A.ExMenu.Utils) ![GitHub stars](https://img.shields.io/github/stars/AdotGdot/RALF.FT991A.ExMenu.Utils?style=flat&label=%E2%AD%90) - Backup & restore for FT-991A extended menu.
 
 ---
 
 ## Related lists
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - The Awesome meta-list.
-- [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) - Broader radio / SDR awesome list.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat&label=%E2%AD%90) - The Awesome meta-list.
+- [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) ![GitHub stars](https://img.shields.io/github/stars/kyleterry/awesome-radio?style=flat&label=%E2%AD%90) - Broader radio / SDR awesome list.
 - [Awesome Search](https://awesomelists.calvinjeng.io/) - Quick search across Awesome lists.
 
 ---
@@ -216,3 +220,27 @@ Licensing, society, logging, and local software of particular interest to JA ope
 Contributions welcome — open a pull request to add a resource, fix a broken link, or suggest a category.
 
 Prefer **durable official / docs URLs**, short blurbs, and actively maintained projects. Keep product and organization names; mark language or region when helpful. Update both `README.md` and `README.ja.md` when you can.
+
+---
+
+## shvyac's awesome lists
+
+All curated lists maintained by [shvyac](https://github.com/shvyac):
+
+- [awesome-hamradio](https://github.com/shvyac/awesome-hamradio) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hamradio?style=flat&label=%E2%AD%90)
+- [awesome-cad-cae](https://github.com/shvyac/awesome-cad-cae) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cad-cae?style=flat&label=%E2%AD%90)
+- [awesome-map-gis](https://github.com/shvyac/awesome-map-gis) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-map-gis?style=flat&label=%E2%AD%90)
+- [awesome-ballroom-dance](https://github.com/shvyac/awesome-ballroom-dance) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ballroom-dance?style=flat&label=%E2%AD%90)
+- [awesome-ghost-artists](https://github.com/shvyac/awesome-ghost-artists) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ghost-artists?style=flat&label=%E2%AD%90)
+- [awesome-audio-softwares](https://github.com/shvyac/awesome-audio-softwares) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-audio-softwares?style=flat&label=%E2%AD%90)
+- [awesome-online-services](https://github.com/shvyac/awesome-online-services) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-online-services?style=flat&label=%E2%AD%90)
+- [awesome-trading-stock](https://github.com/shvyac/awesome-trading-stock) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-trading-stock?style=flat&label=%E2%AD%90)
+- [awesome-open-source-solvers](https://github.com/shvyac/awesome-open-source-solvers) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-open-source-solvers?style=flat&label=%E2%AD%90)
+- [awesome-m5stack-arduino](https://github.com/shvyac/awesome-m5stack-arduino) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-m5stack-arduino?style=flat&label=%E2%AD%90)
+- [awesome-AI-Powered-Executive-Dashboards](https://github.com/shvyac/awesome-AI-Powered-Executive-Dashboards) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-AI-Powered-Executive-Dashboards?style=flat&label=%E2%AD%90)
+- [awesome-ai-tool-for-mechanical-engineering](https://github.com/shvyac/awesome-ai-tool-for-mechanical-engineering) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ai-tool-for-mechanical-engineering?style=flat&label=%E2%AD%90)
+- [awesome-local-llm](https://github.com/shvyac/awesome-local-llm) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-local-llm?style=flat&label=%E2%AD%90)
+- [awesome-redmine-ai](https://github.com/shvyac/awesome-redmine-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-redmine-ai?style=flat&label=%E2%AD%90)
+- [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
+- [awesome-osint-ai](https://github.com/shvyac/awesome-osint-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-osint-ai?style=flat&label=%E2%AD%90)
+- [awesome-cms-ai](https://github.com/shvyac/awesome-cms-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cms-ai?style=flat&label=%E2%AD%90)

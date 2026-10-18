@@ -170,6 +170,7 @@ Useful when building your own demodulators, SDR apps, or audio tools.
 - [FFTW](https://www.fftw.org/) ![GitHub stars](https://img.shields.io/github/stars/FFTW/fftw3?style=flat&label=%E2%AD%90) - Fast Fourier Transform library. ([GitHub](https://github.com/FFTW/fftw3))
 - [Kiss FFT](https://github.com/mborgerding/kissfft) ![GitHub stars](https://img.shields.io/github/stars/mborgerding/kissfft?style=flat&label=%E2%AD%90) - Small, simple FFT implementation.
 - [RtAudio](https://www.music.mcgill.ca/~gary/rtaudio/) ![GitHub stars](https://img.shields.io/github/stars/thestk/rtaudio?style=flat&label=%E2%AD%90) - Cross-platform realtime audio I/O API. ([GitHub](https://github.com/thestk/rtaudio))
+- [morse-code-audio](https://github.com/bellemann/morse-code-audio) ![GitHub stars](https://img.shields.io/github/stars/bellemann/morse-code-audio?style=flat&label=%E2%AD%90) - Dependency-free JavaScript library to encode Morse, build ITU and Farnsworth timing, render WAV audio and decode CW from audio. ([Demo](https://morsecodefree.com/morse-code-audio-decoder/))
 
 ---
 

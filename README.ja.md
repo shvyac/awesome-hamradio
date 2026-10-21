@@ -159,6 +159,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [Reverse Beacon Network（RBN）（英語）](https://www.reversebeacon.net/) - スキマーベースの CW／RTTY スポット網。
 - [SOTAWatch（英語）](https://sotawatch.sota.org.uk/) - Summits on the Air のスポット。
 - [Parks on the Air（POTA）（英語）](https://parksontheair.com/) - 公園アクティベーションとスポットツール。
+- [ShackScreen（英語）](https://github.com/maxhayim/ShackScreen) - シャックのテレビ向けの無料・オープンソースのランチャー兼ダッシュボード（Android TV、Google TV、Fire TV）。POTA・DXスポット、宇宙天気とバンドコンディション、衛星パス、無線関連Webアプリを表示。
 
 ---
 

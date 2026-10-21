@@ -159,6 +159,7 @@ Automatic Packet Reporting System and related TNCs.
 - [Reverse Beacon Network (RBN)](https://www.reversebeacon.net/) - Skimmer-based CW / RTTY spotting network.
 - [SOTAWatch](https://sotawatch.sota.org.uk/) - Summits on the Air spotting.
 - [Parks on the Air (POTA)](https://parksontheair.com/) - Parks activation program and spotting tools.
+- [ShackScreen](https://github.com/maxhayim/ShackScreen) - Free, open-source launcher dashboard for the shack TV (Android TV, Google TV, Fire TV): POTA and DX spots, space weather and band conditions, satellite passes, and your radio web apps.
 
 ---
 

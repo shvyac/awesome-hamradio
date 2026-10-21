@@ -79,6 +79,7 @@ Weak-signal and keyboard modes popular on HF and VHF.
 - [M17 Project](https://m17project.org/) - Open-source digital radio protocol for VHF/UHF voice and data (Codec 2), with open hardware and gateway software.
 - [ft8_lib](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
+- [Online Morse Code](https://onlinemorsecode.com/) - Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
 
 ---
 

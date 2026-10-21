@@ -74,9 +74,10 @@ Weak-signal and keyboard modes popular on HF and VHF.
 - [FT4 / FT8 protocol paper (QEX)](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - Design notes for FT4 and FT8.
 - [JS8Call](https://js8call.com/) ![GitHub stars](https://img.shields.io/github/stars/JS8Call-improved/JS8Call-improved?style=flat&label=%E2%AD%90) - Keyboard messaging built on a robust FSK layer inspired by FT8; now developed by the JS8Call-Improved team (original repo archived), 3.x series. ([GitHub](https://github.com/JS8Call-improved/JS8Call-improved))
 - [fldigi](http://www.w1hkj.com/) - Multi-mode digital modem suite (PSK, RTTY, Olivia, CW, and more) by W1HKJ.
-- [FreeDV](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/drowe67/freedv-gui?style=flat&label=%E2%AD%90) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/drowe67/freedv-gui))
+- [FreeDV](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/freedv/freedv-gui?style=flat&label=%E2%AD%90) - Open-source HF digital voice over ordinary SSB rigs, including the ML-based RADE mode. ([GitHub](https://github.com/freedv/freedv-gui))
 - [GridTracker](https://gridtracker.org/) - Companion map, alerts, and logging bridge for WSJT-X / JTDX style apps. ([Docs](https://docs.gridtracker.org/latest/))
 - [M17 Project](https://m17project.org/) - Open-source digital radio protocol for VHF/UHF voice and data (Codec 2), with open hardware and gateway software.
+- [OpenRTX](https://openrtx.org/) ![GitHub stars](https://img.shields.io/github/stars/OpenRTX/OpenRTX?style=flat&label=%E2%AD%90) - Modular open-source firmware for handheld radios (e.g. TYT MD-380/390, Module17) with native M17 support. ([GitHub](https://github.com/OpenRTX/OpenRTX))
 - [ft8_lib](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
 
@@ -103,6 +104,7 @@ Station logs, electronic QSL, and award tracking.
 
 - [Hamlib](https://hamlib.github.io/) ![GitHub stars](https://img.shields.io/github/stars/Hamlib/Hamlib?style=flat&label=%E2%AD%90) - Portable radio-control library and `rigctl` / `rigctld` daemons used by many apps. ([GitHub](https://github.com/Hamlib/Hamlib))
 - [flrig](http://www.w1hkj.com/) - Rig-control companion to fldigi (XML-RPC / CAT).
+- [qdmr](https://dm3mat.de/software/qdmr/) ![GitHub stars](https://img.shields.io/github/stars/hmatuschek/qdmr?style=flat&label=%E2%AD%90) - Open-source codeplug editor / programmer for many low-cost DMR (and M17) radios on Linux, macOS, and Windows. ([GitHub](https://github.com/hmatuschek/qdmr))
 
 ---
 
@@ -124,6 +126,7 @@ Automatic Packet Reporting System and related TNCs.
 - [AMSAT](https://www.amsat.org/) - Radio Amateur Satellite Corporation — news, status, and educational resources.
 - [SatNOGS](https://satnogs.org/) - Open global network of ground stations for observing satellites. ([Wiki](https://wiki.satnogs.org/))
 - [Gpredict](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - Real-time satellite tracking and orbit prediction with Hamlib radio / rotator control (Doppler correction).
+- [Look4Sat](https://github.com/rt-bishop/Look4Sat) ![GitHub stars](https://img.shields.io/github/stars/rt-bishop/Look4Sat?style=flat&label=%E2%AD%90) - Ad-free Android satellite tracker and pass predictor inspired by Gpredict (Celestrak / SatNOGS data, offline prediction; Google Play / F-Droid).
 - [SatDump](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - Generic satellite data processing software: live SDR reception and decoding of weather and other satellites (NOAA APT, Meteor LRPT, GOES, and more); 2.0 in development. ([GitHub](https://github.com/SatDump/SatDump))
 - [IARU satellite frequency coordination](https://www.iaru.org/reference/satellites/) - How amateur satellite frequencies are coordinated.
 - [JARL — Fuji / amateur satellites (English)](https://www.jarl.org/English/) - Japan amateur-satellite notes via JARL.
@@ -135,6 +138,7 @@ Automatic Packet Reporting System and related TNCs.
 - [ARRL Antenna Book (shop / overview)](https://home.arrl.org/) - Long-running reference series on antenna theory and practice (editions sold via ARRL).
 - [4nec2](https://www.qsl.net/4nec2/) - Free NEC-2 based antenna modeler / optimizer for Windows.
 - [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling; now a free download (EZNEC Pro/2 v6), no longer sold or supported since W7EL retired.
+- [AntennaSim](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) - Free browser-based NEC2 antenna simulator (new in 2026): 3D radiation patterns, SWR / impedance / Smith charts, optimizer, NanoVNA .s1p overlay; runs fully in WebAssembly or via Docker. ([GitHub](https://github.com/EA1FUO/AntennaSim))
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
 - [NOAA SWPC](https://www.swpc.noaa.gov/) - Official space-weather forecasts, alerts, and solar / geomagnetic indices relevant to HF.

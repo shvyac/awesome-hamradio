@@ -74,9 +74,10 @@ HF／VHF で人気の弱信号・キーボード系モード。
 - [FT4／FT8 プロトコル解説（QEX）（英語）](https://wsjt.sourceforge.io/FT4_FT8_QEX.pdf) - FT4／FT8 の設計メモ。
 - [JS8Call（英語）](https://js8call.com/) ![GitHub stars](https://img.shields.io/github/stars/JS8Call-improved/JS8Call-improved?style=flat&label=%E2%AD%90) - FT8 系の堅牢な FSK 層をベースにしたキーボード・メッセージング。現在は JS8Call-Improved チームが開発を継承（オリジナルのリポジトリはアーカイブ済み）し、3.x 系を公開中。（[GitHub](https://github.com/JS8Call-improved/JS8Call-improved)）
 - [fldigi（英語）](http://www.w1hkj.com/) - PSK、RTTY、Olivia、CW など多モードのデジタルモデム群（W1HKJ）。
-- [FreeDV（英語）](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/drowe67/freedv-gui?style=flat&label=%E2%AD%90) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/drowe67/freedv-gui)）
+- [FreeDV（英語）](https://freedv.org/) ![GitHub stars](https://img.shields.io/github/stars/freedv/freedv-gui?style=flat&label=%E2%AD%90) - 一般的な SSB 機で使えるオープンソースの HF デジタル音声。機械学習ベースの RADE モードを含む。（[GitHub](https://github.com/freedv/freedv-gui)）
 - [GridTracker（英語）](https://gridtracker.org/) - WSJT-X／JTDX 系のマップ・アラート・ログ連携コンパニオン。（[Docs](https://docs.gridtracker.org/latest/)）
 - [M17 Project（英語）](https://m17project.org/) - VHF／UHF の音声・データ向けオープンソース・デジタル無線プロトコル（Codec 2）。オープンハードウェアやゲートウェイソフトも開発。
+- [OpenRTX（英語）](https://openrtx.org/) ![GitHub stars](https://img.shields.io/github/stars/OpenRTX/OpenRTX?style=flat&label=%E2%AD%90) - ハンディ機（TYT MD-380／390、Module17 など）向けのモジュール型オープンソース・ファームウェア。M17 をネイティブにサポート。（[GitHub](https://github.com/OpenRTX/OpenRTX)）
 - [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - FT8 エンコード／デコード向け軽量 C ライブラリ。
 - [Morse Code World（英語）](https://morsecodeworld.com/) - ブラウザ上のモールス符号化／復号（テキスト・音声・画像）。
 
@@ -103,6 +104,7 @@ HF／VHF で人気の弱信号・キーボード系モード。
 
 - [Hamlib（英語）](https://hamlib.github.io/) ![GitHub stars](https://img.shields.io/github/stars/Hamlib/Hamlib?style=flat&label=%E2%AD%90) - 多くのアプリが使うポータブルなリグ制御ライブラリと `rigctl`／`rigctld`。（[GitHub](https://github.com/Hamlib/Hamlib)）
 - [flrig（英語）](http://www.w1hkj.com/) - fldigi 向けリグ制御コンパニオン（XML-RPC／CAT）。
+- [qdmr（英語）](https://dm3mat.de/software/qdmr/) ![GitHub stars](https://img.shields.io/github/stars/hmatuschek/qdmr?style=flat&label=%E2%AD%90) - 多数の低価格 DMR（および M17）無線機向けオープンソースのコードプラグ編集・書き込みツール（Linux／macOS／Windows）。（[GitHub](https://github.com/hmatuschek/qdmr)）
 
 ---
 
@@ -124,6 +126,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [AMSAT（英語）](https://www.amsat.org/) - アマチュア衛星のニュース・状態・教育リソース。
 - [SatNOGS（英語）](https://satnogs.org/) - 衛星観測のためのオープンな地上局ネットワーク。（[Wiki](https://wiki.satnogs.org/)）
 - [Gpredict（英語）](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - リアルタイム衛星追尾・軌道予測。Hamlib 経由でリグ／ローテーター制御（ドップラー補正）が可能。
+- [Look4Sat（英語）](https://github.com/rt-bishop/Look4Sat) ![GitHub stars](https://img.shields.io/github/stars/rt-bishop/Look4Sat?style=flat&label=%E2%AD%90) - Gpredict に着想を得た広告なしの Android 向け衛星追尾・パス予測アプリ（Celestrak／SatNOGS データ、オフライン予測。Google Play／F-Droid で配布）。
 - [SatDump（英語）](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - 汎用の衛星データ処理ソフト。SDR によるライブ受信で気象衛星などをデコード（NOAA APT、Meteor LRPT、GOES など）。2.0 を開発中。（[GitHub](https://github.com/SatDump/SatDump)）
 - [IARU 衛星周波数調整（英語）](https://www.iaru.org/reference/satellites/) - アマチュア衛星周波数の調整手順。
 - [JARL — アマチュア衛星（English）](https://www.jarl.org/English/) - JARL 経由の日本アマチュア衛星情報。
@@ -135,6 +138,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [ARRL Antenna Book（英語・概要）](https://home.arrl.org/) - アンテナ理論・実践の定番シリーズ（ARRL 経由で販売）。
 - [4nec2（英語）](https://www.qsl.net/4nec2/) - Windows 向け無料 NEC-2 アンテナモデラー／最適化ツール。
 - [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング。作者 W7EL の引退に伴い販売・サポートを終了し、現在は無料配布（EZNEC Pro/2 v6）。
+- [AntennaSim（英語）](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) - ブラウザで動く無料の NEC2 アンテナシミュレーター（2026 年登場）。3D 放射パターン、SWR／インピーダンス／スミスチャート、最適化、NanoVNA の .s1p 重ね表示に対応。WebAssembly 単体または Docker で動作。（[GitHub](https://github.com/EA1FUO/AntennaSim)）
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
 - [NOAA SWPC（英語）](https://www.swpc.noaa.gov/) - 米国海洋大気庁の宇宙天気予報センター。HF に影響する太陽・地磁気の予報・警報・指数。

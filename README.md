@@ -149,6 +149,7 @@ Automatic Packet Reporting System and related TNCs.
 
 - [ARRL Contest Calendar](https://www.arrl.org/contest-calendar) - Official ARRL contest dates and links.
 - [WA7BNM Contest Calendar](https://www.contestcalendar.com/) - Comprehensive worldwide contest calendar.
+- [Perfect Clock – contest calendars](https://perfectclock.cc/ham-radio) - HF, VHF/UHF, RTTY/FT8 and weekly CW contests on a timeline.
 - [IARU HF World Championship](https://www.arrl.org/iaru-hf-championship) - Annual IARU HF event (often hosted via ARRL pages).
 - [CQ World Wide DX Contest](https://www.cqww.com/) - Major DX contest series (CW / SSB / RTTY).
 - [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Widely used free Windows contest logger for CW, phone, and digital modes.

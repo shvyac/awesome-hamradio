@@ -128,6 +128,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [Gpredict（英語）](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - リアルタイム衛星追尾・軌道予測。Hamlib 経由でリグ／ローテーター制御（ドップラー補正）が可能。
 - [Look4Sat（英語）](https://github.com/rt-bishop/Look4Sat) ![GitHub stars](https://img.shields.io/github/stars/rt-bishop/Look4Sat?style=flat&label=%E2%AD%90) - Gpredict に着想を得た広告なしの Android 向け衛星追尾・パス予測アプリ（Celestrak／SatNOGS データ、オフライン予測。Google Play／F-Droid で配布）。
 - [SatDump（英語）](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - 汎用の衛星データ処理ソフト。SDR によるライブ受信で気象衛星などをデコード（NOAA APT、Meteor LRPT、GOES など）。2.0 を開発中。（[GitHub](https://github.com/SatDump/SatDump)）
+- [CubeSatSim（英語）](https://github.com/alanbjohnston/CubeSatSim) ![GitHub stars](https://img.shields.io/github/stars/alanbjohnston/CubeSatSim?style=flat&label=%E2%AD%90) - AMSAT の CubeSat シミュレーター。Raspberry Pi ベースの低コストな衛星模型で実際にテレメトリを送信し、教育・STEM デモに使える。
 - [IARU 衛星周波数調整（英語）](https://www.iaru.org/reference/satellites/) - アマチュア衛星周波数の調整手順。
 - [JARL — アマチュア衛星（English）](https://www.jarl.org/English/) - JARL 経由の日本アマチュア衛星情報。
 
@@ -139,6 +140,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [4nec2（英語）](https://www.qsl.net/4nec2/) - Windows 向け無料 NEC-2 アンテナモデラー／最適化ツール。
 - [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング。作者 W7EL の引退に伴い販売・サポートを終了し、現在は無料配布（EZNEC Pro/2 v6）。
 - [AntennaSim（英語）](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) - ブラウザで動く無料の NEC2 アンテナシミュレーター（2026 年登場）。3D 放射パターン、SWR／インピーダンス／スミスチャート、最適化、NanoVNA の .s1p 重ね表示に対応。WebAssembly 単体または Docker で動作。（[GitHub](https://github.com/EA1FUO/AntennaSim)）
+- [NanoVNA-Saver（英語）](https://github.com/NanoVNA-Saver/nanovna-saver) ![GitHub stars](https://img.shields.io/github/stars/NanoVNA-Saver/nanovna-saver?style=flat&label=%E2%AD%90) - NanoVNA の測定データを取得・表示・保存するクロスプラットフォームのデスクトップアプリ（スミスチャート、SWR、リターンロス、校正、Touchstone 出力）。
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
 - [NOAA SWPC（英語）](https://www.swpc.noaa.gov/) - 米国海洋大気庁の宇宙天気予報センター。HF に影響する太陽・地磁気の予報・警報・指数。
@@ -163,6 +165,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [Reverse Beacon Network（RBN）（英語）](https://www.reversebeacon.net/) - スキマーベースの CW／RTTY スポット網。
 - [SOTAWatch（英語）](https://sotawatch.sota.org.uk/) - Summits on the Air のスポット。
 - [Parks on the Air（POTA）（英語）](https://parksontheair.com/) - 公園アクティベーションとスポットツール。
+- [OpenHamClock（英語）](https://github.com/accius/openhamclock) ![GitHub stars](https://img.shields.io/github/stars/accius/openhamclock?style=flat&label=%E2%AD%90) - HamClock のオープンソース後継（作者 WB0OEW のサイレントキーに伴い、オリジナルは 2026 年 6 月に動作停止）。コミュニティが保守するリアルタイム・ダッシュボードで、DX クラスタのスポット、伝搬、宇宙天気、地図を表示。ブラウザ、Raspberry Pi キオスク、Docker、Snap で動作。
 
 ---
 

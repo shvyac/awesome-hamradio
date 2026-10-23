@@ -128,6 +128,7 @@ Automatic Packet Reporting System and related TNCs.
 - [Gpredict](https://github.com/csete/gpredict) ![GitHub stars](https://img.shields.io/github/stars/csete/gpredict?style=flat&label=%E2%AD%90) - Real-time satellite tracking and orbit prediction with Hamlib radio / rotator control (Doppler correction).
 - [Look4Sat](https://github.com/rt-bishop/Look4Sat) ![GitHub stars](https://img.shields.io/github/stars/rt-bishop/Look4Sat?style=flat&label=%E2%AD%90) - Ad-free Android satellite tracker and pass predictor inspired by Gpredict (Celestrak / SatNOGS data, offline prediction; Google Play / F-Droid).
 - [SatDump](https://www.satdump.org/) ![GitHub stars](https://img.shields.io/github/stars/SatDump/SatDump?style=flat&label=%E2%AD%90) - Generic satellite data processing software: live SDR reception and decoding of weather and other satellites (NOAA APT, Meteor LRPT, GOES, and more); 2.0 in development. ([GitHub](https://github.com/SatDump/SatDump))
+- [CubeSatSim](https://github.com/alanbjohnston/CubeSatSim) ![GitHub stars](https://img.shields.io/github/stars/alanbjohnston/CubeSatSim?style=flat&label=%E2%AD%90) - AMSAT CubeSat Simulator: low-cost Raspberry Pi based satellite model that transmits real telemetry, for education and STEM demos.
 - [IARU satellite frequency coordination](https://www.iaru.org/reference/satellites/) - How amateur satellite frequencies are coordinated.
 - [JARL — Fuji / amateur satellites (English)](https://www.jarl.org/English/) - Japan amateur-satellite notes via JARL.
 
@@ -139,6 +140,7 @@ Automatic Packet Reporting System and related TNCs.
 - [4nec2](https://www.qsl.net/4nec2/) - Free NEC-2 based antenna modeler / optimizer for Windows.
 - [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling; now a free download (EZNEC Pro/2 v6), no longer sold or supported since W7EL retired.
 - [AntennaSim](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) - Free browser-based NEC2 antenna simulator (new in 2026): 3D radiation patterns, SWR / impedance / Smith charts, optimizer, NanoVNA .s1p overlay; runs fully in WebAssembly or via Docker. ([GitHub](https://github.com/EA1FUO/AntennaSim))
+- [NanoVNA-Saver](https://github.com/NanoVNA-Saver/nanovna-saver) ![GitHub stars](https://img.shields.io/github/stars/NanoVNA-Saver/nanovna-saver?style=flat&label=%E2%AD%90) - Cross-platform desktop app for capturing, displaying, and saving NanoVNA sweeps (Smith chart, SWR, return loss, calibration, Touchstone export).
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
 - [NOAA SWPC](https://www.swpc.noaa.gov/) - Official space-weather forecasts, alerts, and solar / geomagnetic indices relevant to HF.
@@ -163,6 +165,7 @@ Automatic Packet Reporting System and related TNCs.
 - [Reverse Beacon Network (RBN)](https://www.reversebeacon.net/) - Skimmer-based CW / RTTY spotting network.
 - [SOTAWatch](https://sotawatch.sota.org.uk/) - Summits on the Air spotting.
 - [Parks on the Air (POTA)](https://parksontheair.com/) - Parks activation program and spotting tools.
+- [OpenHamClock](https://github.com/accius/openhamclock) ![GitHub stars](https://img.shields.io/github/stars/accius/openhamclock?style=flat&label=%E2%AD%90) - Open-source, community-maintained successor to HamClock (the original stopped working in June 2026 after its creator WB0OEW became a Silent Key): real-time dashboard with DX cluster spots, propagation, space weather, and maps; runs in a browser, on a Raspberry Pi kiosk, via Docker, or as a Snap.
 
 ---
 

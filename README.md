@@ -80,6 +80,7 @@ Weak-signal and keyboard modes popular on HF and VHF.
 - [OpenRTX](https://openrtx.org/) ![GitHub stars](https://img.shields.io/github/stars/OpenRTX/OpenRTX?style=flat&label=%E2%AD%90) - Modular open-source firmware for handheld radios (e.g. TYT MD-380/390, Module17) with native M17 support. ([GitHub](https://github.com/OpenRTX/OpenRTX))
 - [ft8_lib](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
+- [Online Morse Code](https://onlinemorsecode.com/) - Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
 
 ---
 

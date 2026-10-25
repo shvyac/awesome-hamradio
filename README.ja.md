@@ -151,6 +151,7 @@ Automatic Packet Reporting System と関連 TNC。
 
 - [ARRL Contest Calendar（英語）](https://www.arrl.org/contest-calendar) - ARRL 公式コンテスト日程。
 - [WA7BNM Contest Calendar（英語）](https://www.contestcalendar.com/) - 世界のコンテストを網羅したカレンダー。
+- [Perfect Clock – contest calendars（英語）](https://perfectclock.cc/ham-radio) - HF・VHF/UHF・RTTY/FT8 コンテストと毎週の CW ミニコンテストを、UTC から現地時刻に変換してタイムライン表示。
 - [IARU HF World Championship（英語）](https://www.arrl.org/iaru-hf-championship) - 年次 IARU HF コンテスト（ARRL ページ経由が多い）。
 - [CQ World Wide DX Contest（英語）](https://www.cqww.com/) - 大型 DX コンテストシリーズ（CW／SSB／RTTY）。
 - [N1MM Logger+（英語）](https://n1mmwp.hamdocs.com/) - CW・フォーン・デジタル対応で世界的に定番の無料 Windows コンテストロガー。

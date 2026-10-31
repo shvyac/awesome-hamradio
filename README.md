@@ -81,6 +81,7 @@ Weak-signal and keyboard modes popular on HF and VHF.
 - [ft8_lib](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - Lightweight C library for FT8 encoding/decoding.
 - [Morse Code World](https://morsecodeworld.com/) - Browser-based Morse encoder/decoder (text, audio, photos).
 - [Online Morse Code](https://onlinemorsecode.com/) - Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
+- - [Morse Code Live](https://morsecodelive.com/) - Free browser-based Morse code translator with audio playback, a flashing lamp, WAV download, audio and microphone translation, and an ear trainer.
 
 ---
 

@@ -142,9 +142,11 @@ Automatic Packet Reporting System and related TNCs.
 - [EZNEC](https://eznec.com/) - Graphical NEC antenna modeling; now a free download (EZNEC Pro/2 v6), no longer sold or supported since W7EL retired.
 - [AntennaSim](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) - Free browser-based NEC2 antenna simulator (new in 2026): 3D radiation patterns, SWR / impedance / Smith charts, optimizer, NanoVNA .s1p overlay; runs fully in WebAssembly or via Docker. ([GitHub](https://github.com/EA1FUO/AntennaSim))
 - [NanoVNA-Saver](https://github.com/NanoVNA-Saver/nanovna-saver) ![GitHub stars](https://img.shields.io/github/stars/NanoVNA-Saver/nanovna-saver?style=flat&label=%E2%AD%90) - Cross-platform desktop app for capturing, displaying, and saving NanoVNA sweeps (Smith chart, SWR, return loss, calibration, Touchstone export).
+- [Antenna Selection Calculator](https://www.rfelement.com/antenna-selector.html) - Free browser-based tool that sizes required gain from a link budget and suggests matching antenna types.
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
 - [NOAA SWPC](https://www.swpc.noaa.gov/) - Official space-weather forecasts, alerts, and solar / geomagnetic indices relevant to HF.
+
 
 ---
 

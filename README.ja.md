@@ -80,6 +80,7 @@ HF／VHF で人気の弱信号・キーボード系モード。
 - [OpenRTX（英語）](https://openrtx.org/) ![GitHub stars](https://img.shields.io/github/stars/OpenRTX/OpenRTX?style=flat&label=%E2%AD%90) - ハンディ機（TYT MD-380／390、Module17 など）向けのモジュール型オープンソース・ファームウェア。M17 をネイティブにサポート。（[GitHub](https://github.com/OpenRTX/OpenRTX)）
 - [ft8_lib（英語）](https://github.com/kgoba/ft8_lib) ![GitHub stars](https://img.shields.io/github/stars/kgoba/ft8_lib?style=flat&label=%E2%AD%90) - FT8 エンコード／デコード向け軽量 C ライブラリ。
 - [Morse Code World（英語）](https://morsecodeworld.com/) - ブラウザ上のモールス符号化／復号（テキスト・音声・画像）。
+- [MorseSnap（英語）](https://morsesnap.com/) - ブラウザで使える無料のモールス符号翻訳。音声再生、符号表、練習、音声ファイルの解読に対応。
 
 ---
 

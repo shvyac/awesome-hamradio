@@ -166,6 +166,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [Reverse Beacon Network（RBN）（英語）](https://www.reversebeacon.net/) - スキマーベースの CW／RTTY スポット網。
 - [SOTAWatch（英語）](https://sotawatch.sota.org.uk/) - Summits on the Air のスポット。
 - [Parks on the Air（POTA）（英語）](https://parksontheair.com/) - 公園アクティベーションとスポットツール。
+- [ShackScreen（英語）](https://github.com/maxhayim/ShackScreen) ![GitHub stars](https://img.shields.io/github/stars/maxhayim/ShackScreen?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/maxhayim/ShackScreen?style=flat) - シャックのテレビ向けの無料・オープンソース（MIT）のランチャー兼ダッシュボード（Android TV、Google TV、Fire TV）。POTA・DXスポット、宇宙天気とバンドコンディション、衛星パス、無線関連Webアプリを表示。
 - [OpenHamClock（英語）](https://github.com/accius/openhamclock) ![GitHub stars](https://img.shields.io/github/stars/accius/openhamclock?style=flat&label=%E2%AD%90) - HamClock のオープンソース後継（作者 WB0OEW のサイレントキーに伴い、オリジナルは 2026 年 6 月に動作停止）。コミュニティが保守するリアルタイム・ダッシュボードで、DX クラスタのスポット、伝搬、宇宙天気、地図を表示。ブラウザ、Raspberry Pi キオスク、Docker、Snap で動作。
 
 ---

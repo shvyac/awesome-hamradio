@@ -167,6 +167,7 @@ Automatic Packet Reporting System and related TNCs.
 - [Reverse Beacon Network (RBN)](https://www.reversebeacon.net/) - Skimmer-based CW / RTTY spotting network.
 - [SOTAWatch](https://sotawatch.sota.org.uk/) - Summits on the Air spotting.
 - [Parks on the Air (POTA)](https://parksontheair.com/) - Parks activation program and spotting tools.
+- [ShackScreen](https://github.com/maxhayim/ShackScreen) ![GitHub stars](https://img.shields.io/github/stars/maxhayim/ShackScreen?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/maxhayim/ShackScreen?style=flat) - Free, open-source (MIT) launcher dashboard for the shack TV (Android TV, Google TV, Fire TV): POTA and DX spots, space weather and band conditions, satellite passes, and your radio web apps.
 - [OpenHamClock](https://github.com/accius/openhamclock) ![GitHub stars](https://img.shields.io/github/stars/accius/openhamclock?style=flat&label=%E2%AD%90) - Open-source, community-maintained successor to HamClock (the original stopped working in June 2026 after its creator WB0OEW became a Silent Key): real-time dashboard with DX cluster spots, propagation, space weather, and maps; runs in a browser, on a Raspberry Pi kiosk, via Docker, or as a Snap.
 
 ---

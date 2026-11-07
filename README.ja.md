@@ -141,6 +141,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [EZNEC（英語）](https://eznec.com/) - グラフィカルな NEC アンテナモデリング。作者 W7EL の引退に伴い販売・サポートを終了し、現在は無料配布（EZNEC Pro/2 v6）。
 - [AntennaSim（英語）](https://ea1fuo.github.io/AntennaSim/) ![GitHub stars](https://img.shields.io/github/stars/EA1FUO/AntennaSim?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/EA1FUO/AntennaSim?style=flat) - ブラウザで動く無料の NEC2 アンテナシミュレーター（2026 年登場）。3D 放射パターン、SWR／インピーダンス／スミスチャート、最適化、NanoVNA の .s1p 重ね表示に対応。WebAssembly 単体または Docker で動作。（[GitHub](https://github.com/EA1FUO/AntennaSim)）
 - [NanoVNA-Saver（英語）](https://github.com/NanoVNA-Saver/nanovna-saver) ![GitHub stars](https://img.shields.io/github/stars/NanoVNA-Saver/nanovna-saver?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/NanoVNA-Saver/nanovna-saver?style=flat) - NanoVNA の測定データを取得・表示・保存するクロスプラットフォームのデスクトップアプリ（スミスチャート、SWR、リターンロス、校正、Touchstone 出力）。
+- [Link Budget Calculator（英語）](https://www.rfelement.com/link-budget-calculator.html) - ブラウザで動く無料のリンクバジェット計算ツール（自由空間伝搬損失・受信電力・最大通信距離）。送信電力、周波数（30〜40,000 MHz）、距離、送受信アンテナ利得、ケーブル損失、受信感度、フェードマージンはすべてユーザー入力。製品カタログや推奨ハードウェアはなく、登録も不要。
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
 - [NOAA SWPC（英語）](https://www.swpc.noaa.gov/) - 米国海洋大気庁の宇宙天気予報センター。HF に影響する太陽・地磁気の予報・警報・指数。

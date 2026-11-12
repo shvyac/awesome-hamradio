@@ -179,6 +179,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [FFTW（英語）](https://www.fftw.org/) ![GitHub stars](https://img.shields.io/github/stars/FFTW/fftw3?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/FFTW/fftw3?style=flat) - 高速フーリエ変換ライブラリ。（[GitHub](https://github.com/FFTW/fftw3)）
 - [Kiss FFT（英語）](https://github.com/mborgerding/kissfft) ![GitHub stars](https://img.shields.io/github/stars/mborgerding/kissfft?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2025%2F10%2F22-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mborgerding/kissfft?style=flat) - 小さく単純な FFT 実装。
 - [RtAudio（英語）](https://www.music.mcgill.ca/~gary/rtaudio/) ![GitHub stars](https://img.shields.io/github/stars/thestk/rtaudio?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2023%2F08%2F01-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/thestk/rtaudio?style=flat) - クロスプラットフォームのリアルタイム音声 I/O API。（[GitHub](https://github.com/thestk/rtaudio)）
+- [koch-morse-data（英語）](https://github.com/simplemorse/koch-morse-data) ![GitHub stars](https://img.shields.io/github/stars/simplemorse/koch-morse-data?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/simplemorse/koch-morse-data?style=flat) - モールス練習ソフト作成向けのパブリックドメイン（CC0）データ。Koch 法のレッスン順、各文字の符号、レッスン別の練習用単語（JSON／CSV）。
 
 ---
 

@@ -144,6 +144,7 @@ Automatic Packet Reporting System と関連 TNC。
 - [PSK Reporter（英語）](https://pskreporter.info/) - デジタルモードのほぼリアルタイム受信レポート。アンテナ・伝搬の確認に便利。
 - [VOACAP Online（英語）](https://www.voacap.com/hf/) - HF 伝搬予測（地点間・カバレッジ）。
 - [NOAA SWPC（英語）](https://www.swpc.noaa.gov/) - 米国海洋大気庁の宇宙天気予報センター。HF に影響する太陽・地磁気の予報・警報・指数。
+- [AetherWeather (RealAether)（英語）](https://geebs369.github.io/realaether/) - NOAA SWPCのKp・太陽風・フレア、オーロラ見通し、ISS通過、流星群をまとめた無料の公開ダッシュボード。HF / VHF の伝搬判断の確認用。Sky Companion（スマートフォン向けウェブアプリ、https://geebs369.github.io/realaether/sky/）も含む。（[GitHub](https://github.com/Geebs369/realaether)）
 
 ---
 

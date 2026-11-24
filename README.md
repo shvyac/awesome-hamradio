@@ -145,6 +145,7 @@ Automatic Packet Reporting System and related TNCs.
 - [PSK Reporter](https://pskreporter.info/) - Near-real-time digimode reception reports — great for checking antennas and propagation.
 - [VOACAP Online](https://www.voacap.com/hf/) - HF propagation prediction (Point-to-Point and coverage tools).
 - [NOAA SWPC](https://www.swpc.noaa.gov/) - Official space-weather forecasts, alerts, and solar / geomagnetic indices relevant to HF.
+- [AetherWeather (RealAether)](https://geebs369.github.io/realaether/) - Free public dashboard of NOAA SWPC Kp, solar wind, flares, aurora outlook, ISS passes, and meteor showers, useful as a quick space-weather check for HF / VHF planning. Includes Sky Companion, a phone web app (https://geebs369.github.io/realaether/sky/). ([GitHub](https://github.com/Geebs369/realaether))
 
 ---
 
